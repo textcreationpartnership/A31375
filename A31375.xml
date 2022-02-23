@@ -1,0 +1,1810 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The causes and cures of an unwilling warre, or, Justice awakened from gownes to guns historified by Philalathes.</title>
+            <author>Philalathes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31375</idno>
+            <idno type="STC">Wing C1535</idno>
+            <idno type="STC">ESTC R25976</idno>
+            <idno type="EEBO-CITATION">09308860</idno>
+            <idno type="OCLC">ocm 09308860</idno>
+            <idno type="VID">42681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1304:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The causes and cures of an unwilling warre, or, Justice awakened from gownes to guns historified by Philalathes.</title>
+                  <author>Philalathes.</author>
+               </titleStmt>
+               <extent>[3], 27 [i.e. 28] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42681:1" rendition="simple:additions"/>
+            <p>THE CAUSES AND CURES Of an unwilling WARRE.</p>
+            <p>OR, Juſtice awakened from Gownes to Guns Hiſtorified By <hi>Philalathec.</hi>
+            </p>
+            <p>
+               <hi>Omnia tentanda priuſquam Armis.</hi>
+            </p>
+            <p>Printed in the year. 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42681:2"/>
+            <pb facs="tcp:42681:2"/>
+            <head>To the judicious Reader who can, and the unpartiall, who will, truly Critick the Times.</head>
+            <lg>
+               <l>GReat are our ſores, what <hi>Galleniſt</hi> yet may,</l>
+               <l>Or <hi>Paracelſian</hi> preſcribe a way</l>
+               <l>For our Curation, we doe feele our evils</l>
+               <l>Like ſcandals baſe, up conjured, yea, like Devils,</l>
+               <l>But who, Malignant ſpirits can conjure downe?</l>
+               <l>Knowne plagues to Court, Camp, City, Countrey Towne!</l>
+               <l>To this I anſwer, ſooner comes the Cures,</l>
+               <l>Knowne Cauſes when remov'd, <hi>Gallen</hi> aſſures,</l>
+               <l>
+                  <hi>(Hipocrates</hi> and <hi>Raſis</hi> hold this true,</l>
+               <l>
+                  <hi>Barlow, Fernelius,</hi> and Chyrurgians new,)</l>
+               <l>Now <hi>Papiſme Cauſe</hi> is, more then heretofore</l>
+               <l>Why now, we wallow in our bloudy Gore,</l>
+               <l>Like <hi>Cadmus</hi> brethren, and <hi>Polinices,</hi>
+               </l>
+               <l>Mutually wounded by <hi>Etcocles,</hi>
+               </l>
+               <l>In <hi>Barbariſmes</hi> writ in bloud, in poſtures cruell,</l>
+               <l>We vulnerate one another, in each duell,</l>
+               <l>In theſe domeſtick Wars, both hatcht and fed,</l>
+               <l>By bloudy <hi>Prieſts,</hi> (our home breſt vipers bred.)</l>
+               <l>As in all Chriſtian coaſts, Eaſt, Weſt, South, North.</l>
+               <l>
+                  <hi>Rome</hi> her <hi>Palladium</hi> 
+                  <note n="*" place="margin">Pretended to be ſent from Pallot.</note> fatall, hath ſent forth</l>
+               <l>As full of Treaſons, which State Ruines ſeekes,</l>
+               <l>As was the <hi>Trojan Horſe,</hi> once full of <hi>Greekes.</hi>
+               </l>
+               <l>Chiefly with <hi>Jebuſites,</hi> it is ſtuft and gorg'd,</l>
+               <l>Whoſe Tongues and Pens, blacke Treaſon have diſgorg'd,</l>
+               <l>And vomited even in the face of Kings,</l>
+               <l>And tyde their Crownes to Miters, by ſtrange ſtrings.</l>
+               <l>
+                  <hi>England</hi> and <hi>Ireland,</hi> and oft Warwrackt <hi>France,</hi>
+               </l>
+               <l>(Where Jeſuits, their Factions did advance,)</l>
+               <l>With Lacerate <hi>Germany,</hi> and <hi>Palatinate,</hi>
+               </l>
+               <l>Have felt their Tongues, Teeth, Matchevillian Pate,</l>
+               <l>So have the <hi>Belgicks,</hi> 
+                  <note n="‖" place="margin">
+                     <hi>Anno</hi> 1584 1594. 1598. <hi>ſo the Belgick Chronicles,</hi> Tom. 1. pag 519.</note> 80 <hi>Moravia,</hi>
+               </l>
+               <l>
+                  <hi>Bohemians, Suevians,</hi> and <hi>Silecia.</hi> 
+                  <note n="*" place="margin">
+                     <hi>Anno</hi> 1608 1609.</note>
+               </l>
+               <l>And all parts elſe, where they a foot have got,</l>
+               <l>And ſent poore <hi>Praieſt</hi> unto the pot.</l>
+               <l>
+                  <pb facs="tcp:42681:3"/>
+Their Tragick plots, prancks, Pageants ſo well knowne,</l>
+               <l>Felt, feard'd, I need not rip, they may be ſhowne</l>
+               <l>Writ on truth's Columes, with the bloud of Kings</l>
+               <l>And States: <hi>Romes</hi> vaſſalized underlings:</l>
+               <l>In <hi>England, Ireland,</hi> now (both Lands of Ire)</l>
+               <l>How have they kindled their infernall fire?</l>
+               <l>More hot then <hi>Aetna,</hi> or <hi>Veſnvius</hi> burning,</l>
+               <l>(Which <hi>Pliny</hi> choak't) which turnes our mirth to mourning.</l>
+               <l>We hang our Harps, (our heart-ſtrings broke) upon</l>
+               <l>The whipping Willowes of proud <hi>Babylon,</hi>
+               </l>
+               <l>What their ſanguinolent Agents, old and new</l>
+               <l>Their Superſtitious Factors, with the crew</l>
+               <l>Of miſcreant Malignants, Cavilliers</l>
+               <l>Have done (of Heaven and Hell devoyd of feares)</l>
+               <l>How they have made our wounds, how to be cured,</l>
+               <l>I ſalves preſcribe: the chiefe, <hi>Charles</hi> rightly Lured,</l>
+               <l>This high flowne Eagle, whilom, (who now ſmites</l>
+               <l>Our Doves,) reclaimed be from <hi>Harpies</hi> Kites,</l>
+               <l>Who his good <hi>Genius</hi> poyſon, and his nature</l>
+               <l>Croſt mould, to be their own-game-pouncing-creature,</l>
+               <l>Then ſhall the pluckt Innocuous birds have reſt,</l>
+               <l>And quietly ſit and ſleep in theirowne neſt,</l>
+               <l>As in <hi>Auguſtus</hi> dayes, and in the times</l>
+               <l>of <hi>Solomon,</hi> Grace, Peace ſhall bleſſe our Clymes.</l>
+               <l>Beſides all know, what Court Dames doe, brave Beagles,</l>
+               <l>More fierce then Males, (like ſhee-Haukes, Wolves and Eagles)</l>
+               <l>To help <hi>Nimrodian's, Nero's, Saul's,</hi> and <hi>Caine's,</hi>
+               </l>
+               <l>To dye white <hi>Albion</hi> red, in bloudy graines:</l>
+               <l>Confederates with <hi>God-dam-mee's, Pluto's</hi> Proctours,</l>
+               <l>Witches and Conjurers. and the Devils Doctours.</l>
+               <l>What I have done, theſe peſts for to diſcover,</l>
+               <l>Peruſe theſe Shedules, if thou be'ſt truths lover;</l>
+               <l>Ope thy unpartiall eye, try gold from droſſe,</l>
+               <l>See what is <hi>Englands</hi> ſtouping Plague, Curſe, Croſſe,</l>
+               <l>In juſt ſcales poize the Cauſe, if thou be'ſt wiſe,</l>
+               <l>and ſee on whom, our <hi>Britiſh</hi> bloud now lies.</l>
+               <l>And if from <hi>Babylon</hi> our Land now be</l>
+               <l>Made an <hi>Acheldema,</hi> out of her Flee;</l>
+               <l>Deteſt the Favourites of the Scarlet Whoore,</l>
+               <l>Our blouds, our goods who pluck, and ſqneaze us poore!</l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42681:3"/>
+            <head>To the Honourable, and ever Honoured Colonels, Captains and Comman<g ref="char:EOLhyphen"/>ders in theſe Defenſive Warres.</head>
+            <lg>
+               <l>THeſe muzzle puzzle Momiſts, hooke the Jawes</l>
+               <l>Of <hi>Doegs:</hi> who accuſe your Righteous <hi>Cauſe;</hi>
+               </l>
+               <l>Theſe ſpure your ſpeeds, Anchour (ſans fluctation)</l>
+               <l>Your right reſolves for Church, State, Reformation,</l>
+               <l>Theſe whet your Swords, fuellize your zealous Fires</l>
+               <l>For Grace, Peace, Truth, which wiſh't, my loves, deſires;</l>
+               <l>All my poore beſt, my Martiall minde, tongue, pen,</l>
+               <l>Are with you, for you, brave reſolved Men.</l>
+               <l>Fight you for us, wee will your Trophies raiſe,</l>
+               <l>Crowne your devoires, with Prayers, Praiſes, Bayes.</l>
+               <closer>
+                  <signed>
+                     <hi>H.</hi> Redivivus.</signed>
+               </closer>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:42681:4"/>
+            <pb n="1" facs="tcp:42681:4"/>
+            <head>The Cauſes and Cures of an unwilling War, &amp;c.</head>
+            <lg>
+               <l>LOng <hi>Albion</hi> flouriſh't, in a Lawreat Peace,</l>
+               <l>With her faire Daughters, Plenty and Increaſe,</l>
+               <l>Bright did Heavens Sun, in our Horizon ſhine,</l>
+               <l>With influence, of Morall and Divine</l>
+               <l>Bleſſings, and gifts; the Muſes and the Graces,</l>
+               <l>
+                  <hi>Moſes Minerva</hi> wiſe, fixt in their places;</l>
+               <l>Spoke her the Wonder, yea, the Miſtreſſe great</l>
+               <l>For adjuments and ornaments compleate</l>
+               <l>To all the welkin World, tho her confine,</l>
+               <l>Were but an Angell in the Weſterne line;</l>
+               <l>Scarce knowne in former Times, ſo far remote</l>
+               <l>From Continents: yet late of ſuch high Note</l>
+               <l>To Forreigne Countries was ſhe paramour,</l>
+               <l>The garden of the World, for every flower:</l>
+               <l>A Sunne ſhe was amongſt the leſſer Stars,</l>
+               <l>Splendent and Luſtrous both in Peace and Wars:</l>
+               <l>Fruitfull in ſons, whody'd in Honours bed,</l>
+               <l>With <hi>Dromedes</hi> hands, <hi>Ulyſſes</hi> head.</l>
+               <l>Her <hi>Eſſex, Sydneys, Talbots, Howards,</hi> Praiſe</l>
+               <l>I need not ſing, all Crown'd with Martiall Bayes,</l>
+               <l>With millions ſince, out or their aſhes ſprung,</l>
+               <l>As worthy <hi>Virgils</hi> pen; and <hi>Homers</hi> ſong,</l>
+               <l>As that <hi>Achilles,</hi> or <hi>Anchiſes</hi> ſonne;</l>
+               <l>
+                  <hi>Hector,</hi> or he that kil'd the <hi>Misrmidon.</hi>
+               </l>
+               <l>Here <hi>Tempe</hi> was, <hi>Heſperides</hi> here, the Fleece</l>
+               <l>Cal'd Goldens not in <hi>Colchos,</hi> nor in <hi>Greece;</hi>
+               </l>
+               <l>Our <hi>Yorkeſhire, Lincolnſhire,</hi> and <hi>Hampſhire</hi> Wool,</l>
+               <l>In ſtaple Traficke, this ſpoke to the full.</l>
+               <l>Nay, here was <hi>Gideons</hi> flerce, and <hi>Goſhen</hi> bright,</l>
+               <l>The world bloud wett and darke, we dry and light:</l>
+               <l>Cape of good hope, Elizian fields, withall</l>
+               <l>Fortunate Ile, we might our <hi>Albion</hi> call.</l>
+               <l>
+                  <pb n="2" facs="tcp:42681:5"/>
+Shee was a Rubie in the Ring inroll'd,</l>
+               <l>Of the glob'd Earth; a Pearle right ſet in gold?</l>
+               <l>Foreigne and neighbouring Continents, Coaſts, Iles,</l>
+               <l>Did Idolize her glories; begge her ſmiles:</l>
+               <l>A Chriſtall glaſſe ſhe was where other Nations</l>
+               <l>Saw mentall ſpots, and civiliz'd their faſhions,</l>
+               <l>And luſter from her tooke, as <hi>Cynthia</hi> bright,</l>
+               <l>From <hi>Phebus</hi> borrowes herrefulgent light.</l>
+               <l>Shee Was an Eagle which did ſore above</l>
+               <l>Her circling Birds, aw'd all by feare, or love.</l>
+               <l>Hence was ſhee proud <hi>Spaines</hi> ſcourge; <hi>Romes</hi> Croſſe or Cui<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Wilde <hi>Irelands</hi> Curb, and the <hi>Low Countries</hi> Nurſe.</l>
+               <l>Her wodden walls, and her Sea horſes rid</l>
+               <l>On <hi>Neptunes</hi> backe, <hi>Tritons</hi> their homage did,</l>
+               <l>Shee the Seas Miſtreſſe might in every Dittie,</l>
+               <l>Be ſtil'd, Sea-wed, more then the Maiden <note n="*" place="margin">Veni<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> City.</l>
+               <l>But my <hi>Thalia</hi> now, in new ſtraines muſt</l>
+               <l>Recant her Glories late, laid in the duſt;</l>
+               <l>Brittle as glaſſe, be our Terreſtrials all,</l>
+               <l>Up downe like Wea-ſcales; toſt like Tennis ball;</l>
+               <l>Ebbing and flowing, like to flouds and ſeas,</l>
+               <l>On Eagles wings they fly, which way they pleaſe;</l>
+               <l>Like ſnow built Caſtles, how they ſoone melt downe,</l>
+               <l>Waxing and waining like the pale face't Moone:</l>
+               <l>Oh how on Reeds, Bogs, Quags on them we build!</l>
+               <l>Our helps, hopes, peace, now be we taught and ſchoul'd.</l>
+               <l>
+                  <hi>Englands</hi> ſweet waters, now like <hi>Jordan</hi> turne</l>
+               <l>Briniſh; and Red ſea like, they bacward run.</l>
+               <l>Chang'd are our calmes to ſtormes, here ſhooe doth wing</l>
+               <l>Here <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad <hi>Melpomine,</hi> begins, to ſing,</l>
+               <l>Her dolorous Accents; and he tragick Tones</l>
+               <l>Like to the Turtl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſads, <hi>Hien<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> groanes,</l>
+               <l>The moanes of Bitturne, Pellican and Swan,</l>
+               <l>Of neſt rob'd Nightingales, or dying man,</l>
+               <l>Shee ſympathizeth, <hi>Jeremies</hi> ſad ſtreines,</l>
+               <l>And <hi>Ovids Triſtia,</hi> ſuite with her complaines.</l>
+               <l>
+                  <hi>Albions</hi> Halcion Dayes, they Laſt not long,</l>
+               <l>Dog-dayes ſucceeded, which quite ſpoyl'd her Song,</l>
+               <l>And all the muſick of her joyes, turn'd frets,</l>
+               <l>Eclipſt her Sun, and her Solary heats.</l>
+               <l>
+                  <pb n="3" facs="tcp:42681:5"/>
+Diſſolv'd into a black, and pitchy cloud</l>
+               <l>With rained bloud, from which we could not ſhroud</l>
+               <l>Our plagued ſelves, no more then from Joves Ire</l>
+               <l>Of Ralne the worldings, <hi>Sodom</hi> from ſtrange fire;</l>
+               <l>From <hi>Dan</hi> we to <hi>Beerſheba,</hi> we doe reele,</l>
+               <l>And plagues like <hi>Egypt, Ammon, Moab,</hi> feele.</l>
+               <l>Chiefly the Sword, which eats our fleſh, drinks bloud,</l>
+               <l>Changing our waters to a crimſon floud,</l>
+               <l>As beſt effect of ſin, which brings all evils,</l>
+               <l>Turns Heaven to Hell, ſads Angels, glads the Devils.</l>
+               <l>Sin is that <hi>Agrippina,</hi> which hath bred</l>
+               <l>Our <hi>Nero's,</hi> which their Mothers bloud have ſhed.</l>
+               <l>Sin worſt of Vipers, now hath hatcht each peſt,</l>
+               <l>Which teares his Countries breeding feeding breſt.</l>
+               <l>Sins to us <hi>Sodoms</hi> grapes, and gall afford,</l>
+               <l>Sins are our colloquint, our poyſoning gourd.</l>
+               <l>Sins are our <hi>French</hi> Fleas, our chiefe unctions marring,</l>
+               <l>Which oyl'd the Crown; our tun'd ſtrings, turn they jarring,</l>
+               <l>Our Peace to Wars; in <hi>Iriſh</hi> Bogs of woe</l>
+               <l>They plunge us ſtill, for up to Heaven they goo</l>
+               <l>With <hi>Ninive's;</hi> and cry for vengeance more,</l>
+               <l>Their guilt and ſtaine, ſince ſleightly we deplore.</l>
+               <l>Our Harps (our hearts) unſtring, we ſing harſh notes</l>
+               <l>Like to the Scritch-owles cryes, the Ravens croakes:</l>
+               <l>Even chang'd be in a trice, our ſongs of <hi>Sion,</hi>
+               </l>
+               <l>To <hi>Babels</hi> ſighes; incenſed <hi>Iudahs</hi> Lion</l>
+               <l>For hundreth years a Lamb, now ſeems to teare us,</l>
+               <l>
+                  <hi>Nemeſis</hi> provok't, he could no more forbeare us;</l>
+               <l>Our ſugred Wine to Vinegar, now turnes,</l>
+               <l>Wrath brings (ſin poyſoned) to untimely urnes.</l>
+               <l>Millions of peccant ſoules, who in the duſt</l>
+               <l>Now ſleep, (as <hi>Iſrael</hi> once) in graves of luſt,</l>
+               <l>Beſides theſe <hi>Abels, Naboaths, Zachariab's,</hi>
+               </l>
+               <l>Slaine by <hi>Rome, Neroes, Ahabs, Zedekia's.</hi>
+               </l>
+               <l>But how may ſome ſay, did our Paradice,</l>
+               <l>Turne reall Purgatory in a trice,</l>
+               <l>How did our Gold turne Droſſe, our Silver Tin,</l>
+               <l>How did Religion loſe, Rebellion win.</l>
+               <l>How did we Peace (with Grace) quit at a clap,</l>
+               <l>Liſten <hi>Nimrodian</hi> wiles, and Hells main<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trap;</l>
+               <l>
+                  <pb n="4" facs="tcp:42681:6"/>
+For as I may, I will unrip a Fardle,</l>
+               <l>Would move a heart of <hi>Caucaſus;</hi> melt Marble,</l>
+               <l>Yea into <hi>Niobe's,</hi> turne Jangling Jayes,</l>
+               <l>Heaven bred <hi>Vrania,</hi> inſpire my layes.</l>
+               <l>I have not drunke at <hi>Aganippe's</hi> Well,</l>
+               <l>Nor ſcal'd <hi>Parnaſſus;</hi> I plaine truth to tell,</l>
+               <l>Deſire not <hi>Phebus,</hi> not the ſiſters nine,</l>
+               <l>But the true <hi>Iove,</hi> for to direct each line,</l>
+               <l>Dropt from my pen like bloud in piteous <hi>Ruth,</hi>
+               </l>
+               <l>Whil'ſt I anatomize the naked truth.</l>
+               <l>Thus thus; the Serpent enemy to Grace,</l>
+               <l>As to externall, and internall peace;</l>
+               <l>Who betwixt God and man ſew <hi>Ata's</hi> ſeeds</l>
+               <l>Of diſcord firſt; and ſtill with wheat ſowes weeds:</l>
+               <l>Hating Gods Image, in beſt Saints that were,</l>
+               <l>As Panthers doemans hated picture teare.</l>
+               <l>This Serpent by his ſpawnes long lodg'd in cels,</l>
+               <l>His <hi>Gundimers, Machivils, Achitophels,</hi>
+               </l>
+               <l>Court <hi>Hammans, French Sanballats, Romes Tobiahs,</hi>
+               </l>
+               <l>Deanes, Temporizing Doctors, <hi>Zedechiahs.</hi>
+               </l>
+               <l>Prelates, Court Chaplaines, <hi>Paſbures,</hi> 
+                  <note n="a" place="margin">
+                     <hi>Jer.</hi> 20. 2.</note> 
+                  <hi>Amaziahs,</hi>
+               </l>
+               <l>Hating pure <hi>Micha's</hi> 
+                  <note n="b" place="margin">1 <hi>Kings</hi> 22. 24.</note>, Patriot <hi>Obediah's</hi> 
+                  <note n="c" place="margin">1 <hi>Kings</hi> 18. 13.</note>
+               </l>
+               <l>(Church and State pillars) every <hi>Amos</hi> loving, <note n="d" place="margin">
+                     <hi>Amas</hi> 7. 10, 11.</note>
+               </l>
+               <l>As Foxes Lambes, their fleſh and fleece off ſhooving.</l>
+               <l>
+                  <hi>Helin, White;</hi> couzening <hi>Couzens, Laude,</hi> wretch't <hi>Wren)</hi>
+               </l>
+               <l>With birds of ſuch blacke feathers, peſts of men,</l>
+               <l>As <hi>Simeon</hi> to <hi>Levi</hi> 
+                  <note n="e" place="margin">
+                     <hi>Gen.</hi> 49. 5.</note>, brethren bloudy,</l>
+               <l>Drunke with <hi>Romes</hi> Philters, till braine-ſick, and giddy;</l>
+               <l>As Crowes intoxicate with <hi>nux vomica,</hi>
+               </l>
+               <l>And Fiſh with <hi>oculus India,)</hi> in mad play:</l>
+               <l>Ayming to turne Grace and Religion both</l>
+               <l>Into vaine Rites <note n="f" place="margin">
+                     <hi>Gal.</hi> 4. 9. <hi>Co.</hi> 2. 20. 21, 22.</note>, as Bottle-Ale to froth;</l>
+               <l>Or as ſome Sycamore Trees, their fruits to leaves,</l>
+               <l>As bad grounds change to cares, and weeds wiſht ſheaves;</l>
+               <l>(As Owles have little fleſh, but feathers all,)</l>
+               <l>Theſe <hi>Sinons, Simons</hi> 
+                  <note n="g" place="margin">
+                     <hi>Acts.</hi> 8. 23.</note>, Sathaniſts, with gall</l>
+               <l>Full gorg'd; with vilde Malignants, like to theſe</l>
+               <l>Infected with the Frenchifi'd diſeaſe,</l>
+               <l>Of Spleene, Luſt, pride,: <hi>Arminians</hi> Romanized,</l>
+               <l>Papized Prela<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, mainely Jeſuitized,</l>
+               <l>
+                  <pb n="5" facs="tcp:42681:6"/>
+With ſuch <hi>Sampſonian</hi> Foxes <note n="h" place="margin">
+                     <hi>Judg.</hi> 15. 14.</note>, linckt in Ire;</l>
+               <l>Gods planted Vines, (and Vinitors) to fire:</l>
+               <l>In hearts, hands, heads and tayles, cloſe chain'd in one,</l>
+               <l>Plotting with <hi>Pluto,</hi> ſought to caſt a bone</l>
+               <l>Twixt King and Parliament, with dam'd dintent,</l>
+               <l>From the ſound Body, this great Head to rent:</l>
+               <l>They thought withall to Cyclops, his cleare eyes,</l>
+               <l>That <hi>Poliphemiz'd</hi> (in <hi>Vlyſſes</hi> Guize)</l>
+               <l>They might ſcape Gun-ſhot of the Lawes ſtrickt bent</l>
+               <l>From a Trienniall feared Parliament:</l>
+               <l>At Schoole-boyes and Ship ſquabs, who mad prancks play,</l>
+               <l>Theſe fear'd the whip, and the correction day:</l>
+               <l>As much as Stewards falſe, <note n="i" place="margin">
+                     <hi>Mat.</hi> 16. 2.</note> which doe diſſemble,</l>
+               <l>At thoughts of Audits ſtrickt, doe quake and tremble.</l>
+               <l>Yea Woodcocke like, a Miſt they wiſht and watcht,</l>
+               <l>With <hi>Finch</hi> on <hi>Windy-bancks,</hi> to fly, ere catcht.</l>
+               <l>
+                  <hi>Wilmot</hi> and <hi>Digby,</hi> wily cubs and fly,</l>
+               <l>A <hi>Germane</hi> too, had fingers in the pye;</l>
+               <l>With many ſuch, cleare peace, who ſtir'd, to mud,</l>
+               <l>To fiſh their owne baſe ends in <hi>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bions</hi> bloud.</l>
+               <l>Ayming to purge out all, pure juſt and good,</l>
+               <l>Who for Religion, Lawes and Juſtice ſtood.</l>
+               <l>Suggeſting to the Lion, for their prey,</l>
+               <l>His right ſtreight ready, and compendious way</l>
+               <l>To worke his will, and give to luſts the day</l>
+               <l>Over all Lawes, as <hi>Turkiſh</hi> Tyrants ſway: <note n="k" place="margin">Per<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> more quod libet lia cet. Lancla<g ref="char:EOLhyphen"/>vius dere but Turcicis.</note>
+               </l>
+               <l>Was to cruſh <hi>Puritanes:</hi> or cut them downe</l>
+               <l>As Remora's to their ends; Foes to his Crowne:</l>
+               <l>To bang up, hang up ſo, the ſheapheards Dogs, <note n="l" place="margin">Alluſio olins Demoſtheuis ſuis Atheni<g ref="char:EOLhyphen"/>enſibus.</note>
+               </l>
+               <l>That they like Wolves might worry, wroute like Hogs</l>
+               <l>Even where they liſt, without controll or check,</l>
+               <l>Curb by no Lawes, but by the Princes beck,</l>
+               <l>(Like <hi>Ianiſſaries</hi> who all powers withſtand,</l>
+               <l>And move at their great <hi>Ottomans</hi> Command. <note n="m" place="margin">Knolls in his Turkiſh Hiſtory.</note>
+               </l>
+               <l>As Novices, hang at their Jeſuites ſtrings <note n="n" place="margin">Vide Ignat. de obedientia Sect. 3, 5, 7, 15, 17. &amp; Morpheum in vita Ignatii. Lib. 2, cap. 9</note>
+               </l>
+               <l>In blinde Obedience, to poyſon Kings.)</l>
+               <l>So pind to Kings, as Vines unto their wals,</l>
+               <l>Ivies to Oakes, in riſings or in fals:</l>
+               <l>Their King to be their Law, their Lord their God,</l>
+               <l>Their great <hi>Apollo;</hi> let him feele the rod,</l>
+               <l>
+                  <pb n="6" facs="tcp:42681:7"/>
+Yea heading Axe, if any <hi>Puritan,</hi>
+               </l>
+               <l>This Contradict; A Traytor call him than.</l>
+               <l>But Papiſts for their good and milde behaviour,</l>
+               <l>In <hi>England, Ireland, France, Charles</hi> ought to favour;</l>
+               <l>Good Subjects, they their beards and braines doe pledge</l>
+               <l>As ever any King hang'd on his hedge:</l>
+               <l>(Sure of their Regall ſervice, they may boaſt,</l>
+               <l>Done to their Pope and Queen in <hi>Patrickt</hi> Coaſt.)</l>
+               <l>Deep Politicians, then by this nought loſe,</l>
+               <l>To change their Proteſtant Dublets for <hi>French</hi> hoſe;</l>
+               <l>Rotchets and Tippets for a Cardinals Hat,</l>
+               <l>
+                  <hi>(Parſons</hi> and <hi>Wolſey</hi> thought to gaine by that:)</l>
+               <l>And ſo did <hi>Eccius, Piggius</hi> too, I wot,</l>
+               <l>Elſe had they not, againſt <hi>Luther</hi> been ſo hot:</l>
+               <l>But if the <hi>Puritanes</hi> ſtood, they knew right well,</l>
+               <l>Gods Arke went up, they and their Dagon fell, <note n="p" place="margin">1 <hi>Sam,</hi> 5. 3.</note>
+               </l>
+               <l>They and their miſts ſhould fade, their clouds decline,</l>
+               <l>In Gods right Worſhip, ſhould the Goſpell ſhine:</l>
+               <l>Gone were the counterfelts, brought to the Teſts, <note n="q" place="margin">Verum eſt index ſui, &amp; ubiliqui.</note>
+               </l>
+               <l>The candle ſhewes the theeves, it them moleſts.</l>
+               <l>Theſe Cockatrices egges, <note n="r" place="margin">
+                     <hi>Eſay</hi> 59. 5, 6.</note> though whil'ſt they hatch,</l>
+               <l>
+                  <hi>Ixtons</hi> clouds, <note n="s" place="margin">Apud Luci<g ref="char:EOLhyphen"/>anum in Dialogis.</note> they for <hi>French-Iuno</hi> catch</l>
+               <l>Shadowes for ſubſtance, thoſe moſt venerable</l>
+               <l>
+                  <hi>Dorbels</hi> have graſpt, or claſpt with <hi>Eſops</hi> Fable:</l>
+               <l>(Goate-like) ſo high they climbe, on old State wals,</l>
+               <l>Till they have caught <hi>Hamans</hi> 
+                  <note n="t" place="margin">
+                     <hi>Eſther</hi> 6. 13</note> and <hi>Wolſey</hi> fals:</l>
+               <l>Yea with a vengeance, by <hi>Afiraea's</hi> frowne,</l>
+               <l>Our <hi>Empſons, Dudltys, Mortimers</hi> come downe;</l>
+               <l>As <hi>Spencers</hi> once, and that <hi>Cat, Rat,</hi> and <hi>Dog,</hi>
+               </l>
+               <l>Who this ſpung'd kingdome ſwai'd, rul'd by a <hi>Heg.</hi> 
+                  <note n="u" place="margin">
+                     <hi>Rich. the</hi> 3.</note>
+               </l>
+               <l>Chiefly great <hi>Charles,</hi> his ſafety ſo builds on</l>
+               <l>Each <hi>
+                     <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>hob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amiz'd</hi> 
+                  <note n="w" place="margin">1 <hi>Kings</hi> 2, 10.</note> young <hi>Phaton.</hi>
+               </l>
+               <l>And <hi>Ammons lonadabs,</hi> 
+                  <note n="x" place="margin">2 <hi>Sam.</hi> 13. 3, 4.</note> (neglecting ſo</l>
+               <l>True <hi>Ionathans,</hi> 
+                  <note n="y" place="margin">1 <hi>Sam.</hi> 18. 1.</note> and <hi>Huſhays</hi> 
+                  <note n="z" place="margin">2 <hi>Sam.</hi> 15. 37.</note> to his woe:)</l>
+               <l>As if with Inck and Tar, he thought to waſh</l>
+               <l>The face of Church and State: or gave a maſh</l>
+               <l>Of poudered Lead, unto the ſicke or ſore:</l>
+               <l>In Court or Camp: or ſwam unto the ſhore:</l>
+               <l>On milſtoues in a ſtorme: for in this faſhion,</l>
+               <l>His Papiz d Champione, ſtand for Reformation.</l>
+               <l>
+                  <pb n="7" facs="tcp:42681:7"/>
+His heart not Agents, ſo Religion love,</l>
+               <l>As Hounds doe Haires; Cats, Mice, or Haukes the Dove,</l>
+               <l>Theſe our State Empericks by their verball dyet,</l>
+               <l>(Little acquainted ere with Doctor Quiet:)</l>
+               <l>Not purging, but procuring the Kings evill,</l>
+               <l>As Hels maine Organs, Factors for the Devill,</l>
+               <l>So ſtir'd ill humours, that our fixt peace long</l>
+               <l>Fled: which to mourning, turn'd our Patriots ſong.</l>
+               <l>Who grieving credulous <hi>Charles,</hi> ſhould give an care</l>
+               <l>To ſuch his worſt of ſnakes and vipers were.</l>
+               <l>And that he ſhould be carried on their fiſt,</l>
+               <l>(Hauke-likehood-winckt, to pounce, even whom they liſt.</l>
+               <l>Since <hi>Dioniſius</hi> once by <hi>Diceles,</hi>
+               </l>
+               <l>And <hi>Ariſtippus;</hi> Sycophants like theſe,</l>
+               <l>And Peeres and Princes, moe, <note n="a" place="margin">Read the catalogue of them in bru<g ref="char:EOLhyphen"/>ſomus his ex<g ref="char:EOLhyphen"/>amples. Loni<g ref="char:EOLhyphen"/>cer in his Theater. Tex tor in his Of<g ref="char:EOLhyphen"/>ficina. &amp; Ful<g ref="char:EOLhyphen"/>goſus, titulo de idulations</note> by flatterers fell,)</l>
+               <l>By Antidotes they thought to care him well:</l>
+               <l>But more, ſince he in <hi>Rhehoboams</hi> caſe,</l>
+               <l>Seduc d was, yea bewitcht, by Counſellours baſe,</l>
+               <l>Chief, leaſt that he ſhould taſte (uxorious meere,)</l>
+               <l>Wiſe <hi>Salomons</hi> 
+                  <note n="b" place="margin">1 King. 11. 8, 9. Nehem. 13. 26.</note> and <hi>Theodoſius</hi> cheare, <note n="c" place="margin">What miſ<g ref="char:EOLhyphen"/>chiefes heri<g ref="char:EOLhyphen"/>treall women have brought to Kings, and wrought in Courts: read Cytreus upon Iud. pag. 374 Sigfridas Saccus bis ſermons. 107. 3. par. 4. p 760 and Melan<g ref="char:EOLhyphen"/>ctons cronicles lib. 2. pag. 2. p 6. pag. 256. 269.</note>
+               </l>
+               <l>(As now their ſowre ſauce, each griey'd Subject feeles)</l>
+               <l>Ere all were ſhipwrackt: which now ran on wheeles,</l>
+               <l>Themſelves, Church, State, to ſave, from threatning harmes,</l>
+               <l>Their Prince to reſcue chiefe, from poyſouing charmes</l>
+               <l>Of Paraſites, who for to plunder moneys,</l>
+               <l>Drawne from rich mines, even ſtill make ropes of honeys,</l>
+               <l>For theſe ends: (tho knowne ſoes, to all Alarms)</l>
+               <l>Our Tribunes were infor't to take up Armes.</l>
+               <l>As hunted <hi>David</hi> did <note n="d" place="margin">1 <hi>Sam.</hi> 22. 2.</note> and <hi>Mordachy,</hi> 
+                  <note n="e" place="margin">
+                     <hi>Eſt.</hi> 1. 1, 2, 3</note>
+               </l>
+               <l>Jewes, Romans <note n="f" place="margin">Ever fight<g ref="char:EOLhyphen"/>ing, pro aris &amp; facis.</note> Chriſtians, in all hiſtory.</l>
+               <l>Sincereaſon, (nature) hath, to men: beaſts, ſuited,</l>
+               <l>Defenſive Armes, unjuſtly proſccuted: <note n="*" place="margin">Fugiunt no<g ref="char:EOLhyphen"/>civa.</note>
+               </l>
+               <l>Bees, Waſps, Aſps uſe their ſtings, the crawling wormo</l>
+               <l>Will ſave a life: Fiſh, Birds, Brutes, Serpents turne,</l>
+               <l>Their powers, their policies, againſt grim death</l>
+               <l>Lion and Locuſts yeeld unwilling breath:</l>
+               <l>Who then can juſtly taxe, their acts, aimes, end,</l>
+               <l>A State by Wars laſt refuge to defend.</l>
+               <l>To ſteare the Churches ſhip from threatning rocks,</l>
+               <l>Where all wayes elſe: were words but ſpoke to blocks,</l>
+               <l>
+                  <pb n="8" facs="tcp:42681:8"/>
+And Adders cares: and ſuch effects did find.</l>
+               <l>As for to ſow the duſt, and reape the wind.</l>
+               <l>As colours which were ſhew'd unto the blinde,</l>
+               <l>Yea Phyſicks, which the deſperate do not minde</l>
+               <l>In this caſe, tell me, pollitick <hi>Gallio:</hi>
+               </l>
+               <l>To ſave themſelves, what they diſtreſt, ſhould doe;</l>
+               <l>Should they lye down, and cry with Craven notes,</l>
+               <l>Come <hi>Saulaſts, Ababs</hi> 
+                  <note n="f" place="margin">1 <hi>King.</hi> 21.</note> cut our ſheepiſh throates.</l>
+               <l>Come <hi>Doogs,</hi> come Court Dogs, and falſe accuſe us,</l>
+               <l>Then kill us if <hi>Saul</hi> bid <note n="g" place="margin">1 <hi>Sam.</hi> 22. 9, 10, 18.</note> more to miſuſe us:</l>
+               <l>Come Nimrods <note n="h" place="margin">
+                     <hi>Gen.</hi> 10. 9.</note> come God-dam-ruee's, ſlaſh our pates,</l>
+               <l>Come <hi>Romes</hi> Brandetties; <hi>French</hi> Aſſaſſinates:</l>
+               <l>You are the Foxes, we will be the Sheep:</l>
+               <l>You Wolves, <note n="i" place="margin">homo homi<g ref="char:EOLhyphen"/>ni Lupus.</note> we Lambs, we ſcarce can bleat or weep.</l>
+               <l>
+                  <hi>(Acteons</hi> Fate) you Poulcats, wee'l let in</l>
+               <l>To worry all, without trap, batt, or Gin:</l>
+               <l>You are the hounds, we timerous haires, or deere,</l>
+               <l>We will not uſe our heeles yet; ſhoot us here.</l>
+               <l>Juſt at a ſtand, each Round-head, Sound-head thinke,</l>
+               <l>A <hi>Rufus, Abbots</hi> ſhafts may more bloud drinke.</l>
+               <l>Hit home; we will not run, nor ſquat, nor double,</l>
+               <l>Tapez or Croize; to ſave a life from trouble.</l>
+               <l>The bolts wkich you doe make; if Caeſar ſhoot,</l>
+               <l>Are <hi>Ioves</hi> 
+                  <note n="k" place="margin">Procul a love, procul a fulmine.</note> owne darts, we can ſay nothing no't.</l>
+               <l>Juſt muſt all be, that's done by <hi>Alexander,</hi>
+               </l>
+               <l>Tho drunk at <hi>Babylon:</hi> he cannot wander <note n="l" place="margin">Alexander fecit, orgo juſtimeſt.</note>:</l>
+               <l>Tho burne <hi>Perſepolis,</hi> and <hi>Clitus</hi> kill <note n="m" place="margin">Curtius &amp; Plutarchus in Alexandres.</note>
+               </l>
+               <l>Yea learn'd <hi>Caliſthenes:</hi> Juſt is his will,</l>
+               <l>(As <hi>Aeolus) luno</hi> 
+                  <note n="n" place="margin">Mihi juſſe capeſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere fas eſt.</note> who dare him gainſay;</l>
+               <l>Tho that a <hi>Lais, Thais</hi> he obey,</l>
+               <l>
+                  <hi>Albion,</hi> muſt <hi>Perſian</hi> like, make luſts, her Lawes.</l>
+               <l>Alas we are Simplicians, Dulmans Dawes!</l>
+               <l>Kill <hi>Naboaths, Eſays</hi> 
+                  <note n="o" place="margin">Sawne in pieces by Manaſſes.</note> take <hi>Uriahs</hi> wife:</l>
+               <l>Squeaze, plunder goods, blouds, liberty and life</l>
+               <l>Of moſt and beſt: (for wolves on fat ſheep prey,</l>
+               <l>And fat bucks fleſht dogs ſingle, Woodmen ſay.) <note place="margin">q buniſhing of beſt men in Rome and Athens.</note>
+               </l>
+               <l>Be <hi>Oſtraciſm:</hi> 
+                  <note n="p" place="margin">1 Sam. 11.</note> up conjur'd; Hell renued.</l>
+               <l>
+                  <hi>Romane Triumvirs,</hi> cannot be eſchued:</l>
+               <l>
+                  <hi>Athenian</hi> Tyrants, nor yet <hi>Cateline:</hi>
+               </l>
+               <l>
+                  <hi>Seylla,</hi> nor <hi>Dracoe's</hi> Lawes <note n="r" place="margin">Said to be writ in bloud</note> can we decline.</l>
+               <l>
+                  <pb n="9" facs="tcp:42681:8"/>
+                  <hi>Egypts</hi> Taskmaſters <note n="s" place="margin">
+                     <hi>Exod. i.</hi> 13. 13. Cha. 5. 6</note> may not be gainſaid,</l>
+               <l>Commotions of Array, muſt be obey'd.</l>
+               <l>In <hi>Turkiſh</hi> cruelty, tho ſqueazing all,</l>
+               <l>Chopping rich <hi>Baſhawes,</hi> into gobbets ſmall.</l>
+               <l>Strangling great <hi>Begglerbegs</hi> 
+                  <note n="t" place="margin">In Lancla<g ref="char:EOLhyphen"/>vius, &amp; pur<g ref="char:EOLhyphen"/>chaſe his pil<g ref="char:EOLhyphen"/>grimage.</note> by active mutes,</l>
+               <l>Yea <hi>Muſtapbaes</hi> 
+                  <note n="u" place="margin">Mortuus eſt Muſtapha proverbium tragicum a<g ref="char:EOLhyphen"/>pud Turcas.</note> when <hi>Ottomans</hi> will ſo ſuites:</l>
+               <l>If <hi>Cannibals, Hannibals, Gothes, Vandals, G<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es,</hi>
+               </l>
+               <l>Be regaliz'd, we muſt indure their heats;</l>
+               <l>Submit our necks, to a Vatiman hate:</l>
+               <l>Though ſprung from <hi>France</hi> or <hi>Rome,</hi> yea <hi>Rhyne</hi> of late.</l>
+               <l>Prince <hi>Rupert</hi> Rake-all, is a younger Brother,</l>
+               <l>He muſt returne rich home, there's no way other,</l>
+               <l>In his ſqueaz'd ſoile <note n="w" place="margin">The Pala<g ref="char:EOLhyphen"/>tinate.</note> to make his weake wing good,</l>
+               <l>But our pluckt Golden plumes, ſleept in our bloud.</l>
+               <l>Each <hi>Croeſus, Craſſus</hi> 
+                  <note n="x" place="margin">Of their vaſt weal. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> read Bruſo<g ref="char:EOLhyphen"/>nius, Textor Fulgoſus. ti<g ref="char:EOLhyphen"/>tulo de divi<g ref="char:EOLhyphen"/>tibus.</note> 
+                  <hi>Midas, Phidias,</hi>
+               </l>
+               <l>Muſt be a rinden, ſtridden, golden Aſſe.</l>
+               <l>Each rich one, muſt be Rebell, or Roundhead,</l>
+               <l>As once a Tyrant, fits with all one bed.</l>
+               <l>The ſhorteſt ſtretching long, by racking ſtrength,</l>
+               <l>Cutting them ſhorter, who had too much length.</l>
+               <l>
+                  <hi>As</hi> once <hi>Farnefius</hi> 
+                  <note n="y" place="margin">A comman<g ref="char:EOLhyphen"/>der under the Prince of Parma.</note> vow'd in Eighty eight</l>
+               <l>His ſword, all <hi>Engliſh</hi> bred ſhould hew downe right,</l>
+               <l>And that in <hi>Lutherans</hi> bloud, his horſe ſhould ſwim,</l>
+               <l>(An <hi>Iriſh</hi> ſpirit <hi>Pythagoriz'd</hi> was in him.)</l>
+               <l>If Aſſe (or Mule) be fat, the Lion ſweares,</l>
+               <l>That metamorphizd Hornes; be his long eares:</l>
+               <l>As in prime Paganiſh, <hi>Arrian</hi> perſecutions,</l>
+               <l>Our teares muſt be our ſvvords <note n="z" place="margin">Arma no<g ref="char:EOLhyphen"/>ſtra, preces &amp; lachryma</note> our reſolutions</l>
+               <l>With Primitive Saints, muſt paſſive be: we parts</l>
+               <l>Of <hi>Abell</hi> act, tho <hi>Cains</hi> ſhould pierce our hearts.</l>
+               <l>Our chopping cramb'd Court Chaplaines, vvill impeach us</l>
+               <l>Of Treaſon: our ſelves ſaving: for they teach us,</l>
+               <l>God that <hi>Auguſtus</hi> gave, <hi>Domitian</hi> ſent,</l>
+               <l>If Kings be Storkes, the Frogs muſt be content.</l>
+               <l>
+                  <hi>Iupiter</hi> ſends no Logs, vevv <hi>Caeſars</hi> Line</l>
+               <l>From <hi>Nero,</hi> to peace-planting <hi>Conſtantinea.</hi> 
+                  <note n="a" place="margin">Apud Eu<g ref="char:EOLhyphen"/>ſebium in vi<g ref="char:EOLhyphen"/>ta Conſtantini</note>
+               </l>
+               <l>What Chriſtians ere reſiſted, good cauſe vvhy,</l>
+               <l>Their povvers vvere vveake, beſides vvhat Hiſtory,</l>
+               <l>Shevves any Paganiſh King, in any Region,</l>
+               <l>By oath vvas to defend Chriſts true Religion.</l>
+               <l>
+                  <pb n="10" facs="tcp:42681:9"/>
+Yea under <hi>Deeiue, Traian, Attilas,</hi>
+               </l>
+               <l>
+                  <hi>Neiva,</hi> proud <hi>Coſro's,</hi> ſteme <hi>Totilos.</hi> 
+                  <note n="b" place="margin">Victor &amp; prosopius paſ<g ref="char:EOLhyphen"/>ſim ale perſe<g ref="char:EOLhyphen"/>cutione Van<g ref="char:EOLhyphen"/>dalocum.</note>
+               </l>
+               <l>
+                  <hi>Theodoricke, Genſerious,</hi> all more</l>
+               <l>Of <hi>Romans, Gothes?</hi> Chriſts ſheep and lambs who tore,</l>
+               <l>Where ere were Parliaments of patriots?</l>
+               <l>Tyrants to curb, and ſave poore Chriſtians throats?</l>
+               <l>Who by ſanguinolent Doctors, now muſt bleed:</l>
+               <l>From bloud wrung Texts, which come not, in my Creed.</l>
+               <l>Since all irrationalls: by art, knew well</l>
+               <l>To ſave poore life, the Crow will powder ſmell.</l>
+               <l>Cranes, wilde ducks, wilde-Geeſe too, keep centinell,</l>
+               <l>To warne the flocks to fly, ere kil'd pell mell.</l>
+               <l>Yea when that growing ſickneſſes diſeaſe them,</l>
+               <l>Nature to Birds, Brutes, dictates <note n="c" place="margin">De quibus fuſius apud Tholoſanum in ſynt ag<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>te artis mura<g ref="char:EOLhyphen"/>bilis.</note> what will eaſe them;</l>
+               <l>The Weazell, Bue, ſick Dogs (Cats) five leav'd graſſe,</l>
+               <l>Doth cure: Hemlocks the Mauritanian Aſſe.</l>
+               <l>Spiders heale Apes, and Munkies ſtomack ſick:</l>
+               <l>And mans dung Panthers, which they ſeek to lick:</l>
+               <l>So hony phyſicks Beares; Doves, Partridge, Jayes,</l>
+               <l>Are purg'd by lawreall leaves, experience ſayes.</l>
+               <l>Yea, <hi>Pliny, Geſner,</hi> and Phyſicians note</l>
+               <l>How phyſicail cures, man from the creatures got.</l>
+               <l>And every animall ſtill, doth what it can</l>
+               <l>To ſave or cure a life; but paſſive man</l>
+               <l>Muſt yeeld his yoaked neck, to ſtrangling theeves,</l>
+               <l>Lie in the ditch, and ſeek for no relieves.</l>
+               <l>Juſt ſafeties muſt but cloakes be, from Heaven ſhowres,</l>
+               <l>Reaſt (forſooth) he muſt not higher Powers;</l>
+               <l>Tho turnd to Tyranny, as Wine to dregs:</l>
+               <l>Theſe Doctrines feed a Church, like rotten egs.</l>
+               <l>When that the Lion roares, beſt beaſts muſt feare,</l>
+               <l>When Eagles pleaſe to prey, poore birds they teare:</l>
+               <l>Thus muſt our Peers and Stae, be fool'd to death,</l>
+               <l>Unleſſe inforct Armes, ſave their vitall breath:</l>
+               <l>Court Sycophants, by ſmooth Sophiſme, all would Chut,</l>
+               <l>To make us lie dovvne, till our throats vvere cut:</l>
+               <l>Which ſince it is a damnable concluſion:</l>
+               <l>To bring on all, Phaeronian confuſion;</l>
+               <l>Our vvifer Ephoriſts, from Religion, Reaſon,</l>
+               <l>Grace, Nature, Lavves, tooke Armes vvithout leaſt Treaſon,</l>
+               <l>
+                  <pb n="11" facs="tcp:42681:9"/>
+In juſt defence of Parliament and Lawes,</l>
+               <l>To ſave the Land from <hi>Minotaurioen</hi> jawes:</l>
+               <l>From <hi>Papiz'd, Iriſh, French,</hi> and <hi>Atbions</hi> ſoyle,</l>
+               <l>Who all cry ſtill, up <hi>Moah</hi> to the ſpoyle: <note n="d" place="margin">2 <hi>King.</hi> 2.</note>
+               </l>
+               <l>Withall, as with one bolt, to kill outright</l>
+               <l>Two Birds: and two walls with one pencill white:</l>
+               <l>They had another juſt, politicke end,</l>
+               <l>From forreigne ſoes the Land for to defend.</l>
+               <l>From <hi>Turke, Pope, Spaine:</hi> who in their hot deſires,</l>
+               <l>Dance at our frets; and warme at our wiſht fires;</l>
+               <l>
+                  <hi>Gardiners,</hi> ay'md withall, to root out weeds,</l>
+               <l>Cockles and darnell <note n="e" place="margin">Infelix Lol<g ref="char:EOLhyphen"/>lium ſterileſ<g ref="char:EOLhyphen"/>que dominan<g ref="char:EOLhyphen"/>tur avena.</note> with their ſtems and ſeeds.</l>
+               <l>Even knowne Delinquents. Laſtly, to protect</l>
+               <l>Theſe Lawes, which groſſe Delinquents <note n="*" place="margin">
+                     <hi>Groſſe De<g ref="char:EOLhyphen"/>linquents ought to be puniſhed by Gods Law. Lev.</hi> 19. 15. <hi>Deut.</hi> 17. 10, 11, 12, 21. 3 <hi>&amp; cha.</hi> 24. 13. <hi>By the Cannon Law L. proſpicien<g ref="char:EOLhyphen"/>dum F. de poenis. And Politicians verdict Bodin lib. de Rep. cap.</hi> 10. <hi>num.</hi> 100. <hi>&amp; War. ab Erenb. de Reg. ſubd. cap.</hi> 3. <hi>num.</hi> 3.</note> ſhould correct:</l>
+               <l>For take away our Fundamentall Lawes,</l>
+               <l>And take the bit and bridle from the jawes,</l>
+               <l>Of Horſe, Mule, Cammell: from the pendent vine,</l>
+               <l>Oſyers, and Hops: the props on which they twine;</l>
+               <l>Yea, from their ſtrengthning oakes, weake Ivies ſlip.</l>
+               <l>Nay more, helme, anchor, maſt, take from the ſhip:</l>
+               <l>And let it be expos'd, by waves, and ſhocks,</l>
+               <l>When Boreas bluſters, on the ſplitting rocks:</l>
+               <l>No Pilot then, no <hi>Palamure</hi> affoard it,</l>
+               <l>When mutineers would rob it, Pyrates board it.</l>
+               <l>Yea pull from houſes their foundations ſtrong,</l>
+               <l>And like to <hi>Dagons</hi> Shrine, lay all along:</l>
+               <l>From cities too, their circling walls pull downe,</l>
+               <l>Caſtles, ports, forts, the ſtrength of each Mart towne.</l>
+               <l>(As if into <hi>Thebes, Babylon, Rome, Troy,</hi>
+               </l>
+               <l>
+                  <hi>Medes, Gothes, Greeks, Turkes,</hi> were let in to deſtroy.)</l>
+               <l>Yea nerves and ſinnewes, from the body take,</l>
+               <l>When Lawes we doe, annihilate, ſcorne, breake,</l>
+               <l>For none but dolts, in grace, art, natures ſchooles,</l>
+               <l>Doe think that Kings rule men, like beaſts, and mules</l>
+               <l>Which they may yoake; whip, draw, drive as they will,</l>
+               <l>And as meere brutes, whom (when) they pleaſe may kill:</l>
+               <l>Without more cauſe or ground, then Butchers give,</l>
+               <l>Why they let oxe, ſheep, cow, or dye, or live.</l>
+               <l>And that men may not in <hi>Elias</hi> caſe, <note n="f" place="margin">2 <hi>King.</hi> 1. 9, 10.</note>
+               </l>
+               <l>
+                  <hi>Davids</hi> 
+                  <note n="g" place="margin">1 <hi>Sam.</hi> 20. <hi>ch.</hi> 21, 22. 23</note> and <hi>Jonathans</hi> 
+                  <note n="h" place="margin">
+                     <hi>Sam.</hi> 14. 15.</note> reſiſt acts baſe:</l>
+               <l>
+                  <pb n="12" facs="tcp:42681:10" rendition="simple:additions"/>
+Kind, bloudy: when rage rules, and reaſon ſleepes,</l>
+               <l>(Then <hi>Hagar</hi> beturn'd out <note n="i" place="margin">
+                     <hi>Gen.</hi> 21. 9. 10.</note> tho <hi>Iſmael</hi> weepes.)</l>
+               <l>What's Regall, if Illegall? well we know,</l>
+               <l>
+                  <hi>Sydrack</hi> and <hi>Miſacke,</hi> did diſdaine to bow,</l>
+               <l>In idolizing <note n="k" place="margin">
+                     <hi>Dan.</hi> 3. 18.</note> to great <hi>Babels</hi> King.</l>
+               <l>
+                  <hi>Daniel</hi> is Gods too, (not mans underling: <note n="l" place="margin">
+                     <hi>Dan.</hi> 6. 8, 9, 10.</note>
+               </l>
+               <l>So Martyrs, Prophets, and Apoſtles: all</l>
+               <l>Confeſſors did to God <note n="m" place="margin">
+                     <hi>Acts</hi> 5. 28, 29.</note> not men, riſe, fall.</l>
+               <l>
+                  <hi>Romes Pretor</hi> muſt, 'gainſt <hi>Traian</hi> 
+                  <note n="n" place="margin">Plutarchin Trajane.</note> uſe the ſword,</l>
+               <l>If croſt by Law be his Command, Act, Word.</l>
+               <l>Oh waſh your braines with Saige, you <hi>Tibers</hi> Dawes,</l>
+               <l>As Kings rule men, know Kings are rul'd by Lawes:</l>
+               <l>Withouten vvhich, like <hi>Tiber, Tigris, Thames,</hi>
+               </l>
+               <l>Yea like ſvvel'd Sea, they overflovv their Realmes,</l>
+               <l>
+                  <hi>Noahs</hi> and <hi>Ogyges</hi> floud: their devaſtations</l>
+               <l>Doe embleme: yea <hi>Ducalions</hi> inundations.</l>
+               <l>Oh then they clapper-clavv the beſt, long hated,</l>
+               <l>As lions, balls, and beares, let looſe, vvhen baited.</l>
+               <l>But for to ſparr more cloſe, to put a hooke</l>
+               <l>On the Malignants noſe, right led, to looke</l>
+               <l>That Parliaments, be novv the povvers ſupreme,</l>
+               <l>(Tho Rotchets Rebels, Robes, long held croſſe Theame.)</l>
+               <l>Yea <hi>Ephoriſts</hi> and <hi>Tribunes</hi> glob'd in one,</l>
+               <l>Not <hi>Popes)</hi> may plant, ſupplant <note n="o" place="margin">
+                     <hi>Read their power affirmed and confirmed by <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> de Senatus. Al<g ref="char:EOLhyphen"/>ibuſius Polit. a pag.</hi> 193. 194 <hi>ad pag.</hi> 223. <hi>Iunior <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> de vindice lib.</hi> 1. 9. 1. <hi>Borrh. de author magniconſilii num.</hi> 170. <hi>Haitoman in hiſtan Franc. cap.</hi> 10 <hi>&amp;</hi> 10</note> a Regall throne:</l>
+               <l>Chiefly Electives peccant, may goe dovvne,</l>
+               <l>As oft the <hi>Germain,</hi> and <hi>Polonian</hi> Crovvne.</l>
+               <l>The great <hi>Venetian</hi> Dakes, the <hi>Palatine,</hi>
+               </l>
+               <l>Ill governed, to others may decline:</l>
+               <l>With all, the povver ſucceſſive cannot ſtand,</l>
+               <l>If that the ſvvord be in a tyrants hand.</l>
+               <l>Wolves, Tygers, Heriticks, Fooles they bridle may;</l>
+               <l>Oppoſe, depoſe ſome; Politicians ſay.</l>
+               <l>
+                  <hi>Timpler, Althuſius, Bodin; Tholoſens,</hi>
+               </l>
+               <l>
+                  <hi>A<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſius</hi> and <hi>Daneus,</hi> make it plaine:</l>
+               <l>With <hi>Lipſius, Coquier,</hi> and the reſt; Inditers</l>
+               <l>Of Politicks; of Common-vvealths the Writers:</l>
+               <l>Chieſe <hi>Junior Br<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us</hi> in his rods and vvhips</l>
+               <l>For Tyrants; <note n="p" place="margin">De vindice Tyrano<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um.</note> Where he, as vvith pincers nips,</l>
+               <l>Wolviſh <hi>Caligula's, Demitions,</hi>
+               </l>
+               <l>
+                  <hi>Nero's, Herodians</hi> 
+                  <note n="q" place="margin">Hero l, An<g ref="char:EOLhyphen"/>tipas, Agryppa Aſalonnes.</note> 
+                  <hi>Dioniſians</hi>
+               </l>
+               <l>
+                  <pb n="13" facs="tcp:42681:10"/>
+                  <hi>Phalaris, Buſiris,</hi> and our crookt-back <hi>Dick,</hi>
+               </l>
+               <l>
+                  <hi>Haſtings</hi> and <hi>Buokingham,</hi> who (like Boares) did ſtick.</l>
+               <l>
+                  <hi>Bohemlab's Wenceſlans, Jewer Uzziah,</hi>
+               </l>
+               <l>
+                  <hi>Polands Popiell,</hi> treacherous <hi>Athalia.</hi>
+               </l>
+               <l>
+                  <hi>Phereus, Coſroes, Baſilides,</hi>
+               </l>
+               <l>With millions moe, who ſympathiz'd with theſe,</l>
+               <l>In pride, luſt, bloud, in bookes enumerated, <note n="r" place="margin">Of theſe &amp; other Tyrants depoſed or ſlain, read Melancton Chron. lib. 2. Ioſep. anti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. lib. 13 c. 18. Daneus lib. 6 Polit. cap. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Aelianus va<g ref="char:EOLhyphen"/>rioe, hiſt. li. 15. Gorlicius in polit. axioni. 116. Lipſius li 6. polit. cap. 5. Bodin lib. 2. de Rep.</note>
+               </l>
+               <l>Who from ill-governed Crowns were diſlocated.</l>
+               <l>Our Beuclark <hi>Prin;</hi> (after whoſe pen to write,)</l>
+               <l>Were <hi>Iliads</hi> after <hi>Homer</hi> to indite:</l>
+               <l>Whoſe works unparalel'd, unanſwered be,</l>
+               <l>Like to learn'd <hi>Reynolds, Romes</hi> Idolatry <note n="b" place="margin">De Idolairia Rom. ccoleſin.</note>:</l>
+               <l>He proves the Caſe, by demonſtration plaine,</l>
+               <l>From <hi>England, Scotland, Italy</hi> and <hi>Spaine:</hi>
+               </l>
+               <l>From <hi>Polland, Denmarke, Hungary</hi> and <hi>France.</hi>
+               </l>
+               <l>
+                  <hi>Bohemia</hi> too: in paſſing meaſures dance,</l>
+               <l>Of Avirice, Luſt, Injuſtice; bloud; each King</l>
+               <l>Was curb'd or cur'd; when they abus'd their ſting:</l>
+               <l>Like maſter Bees in Hives, they had no Thrones,</l>
+               <l>But were extruded <note n="c" place="margin">
+                     <hi>Of the Par<g ref="char:EOLhyphen"/>liamentary power in our Nation, read Caſe in his politicks li.</hi> 3. <hi>ca.</hi> 15. <hi>&amp; Sir</hi> Tho. Smith <hi>in his Engliſh. Government, lib.</hi> 2. <hi>ſect.</hi> 2. <hi>&amp; how exer<g ref="char:EOLhyphen"/>ciſed againſt Hen.</hi> 3. H. 6. <hi>&amp; Rich.</hi> 2. <hi>read Pollidor Virgil, Hiſt. li.</hi> 11 <hi>Walſin. in R.</hi> 2. <hi>Hol<g ref="char:EOLhyphen"/>linſhed in H.</hi> 6. <hi>&amp; Weſtm. in H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>the</hi> 3.</note> like to Waſps and Droanes.</l>
+               <l>Shepheards and dogs, if once with wolves they ſide</l>
+               <l>Againſt the ſheep, what ſheep can this abide.</l>
+               <l>How the great <hi>Pan</hi> (juſt <hi>Jove)</hi> doth much adhorre it,</l>
+               <l>Hanging or banging, it is to good for it.</l>
+               <l>But if the ſhepheard doe the wolfe deteſt,</l>
+               <l>Why walks he with him? hugs him in his breſt</l>
+               <l>Chiefly the wolfe cal'd Rebell, that' the worſt</l>
+               <l>Of <hi>Iriſh</hi> Wolves; of God and man accurſt.</l>
+               <l>Who like a <hi>Curtian</hi> gulfe, and <hi>Minotaured,</hi>
+               </l>
+               <l>Not onely many millions hath devoured</l>
+               <l>Of brutes and ſheep; but ore the world hath ſluncke,</l>
+               <l>With <hi>Hecatombes</hi> of Chriſtians bloud, late drunke.</l>
+               <l>And like a good fleſht dog, unworm'd, and wood,</l>
+               <l>Is now hug'd, fed, to gulfe more righteous bloud</l>
+               <l>Of every <hi>Naboath</hi> and <hi>Nathaniell,</hi>
+               </l>
+               <l>Who will not ſide with <hi>Rome,</hi> Pope, Prelate, Hell.</l>
+               <l>If any cavilling <hi>Thraſe,</hi> make his vaunt,</l>
+               <l>His Regall Paſtor, is a Proteſtant,</l>
+               <l>And hath confirm'd his Faith by ſolemne oath,</l>
+               <l>By Edicts, and by Proclamations both;</l>
+               <l>
+                  <pb n="14" facs="tcp:42681:11"/>
+That he hath neither <hi>Ieſuites</hi> tongue, nor pate,</l>
+               <l>(As <hi>Arrius</hi> once) for to equivocate.</l>
+               <l>More then his Prelates, (on whoſe ſleeves he pins,</l>
+               <l>His Rites, Religion, Faith: War, Bloud-ſheds, Sins,</l>
+               <l>To carry them in poſtures odd, or even,</l>
+               <l>As they poize dubious ſcales, to Hell or Heaven.)</l>
+               <l>Yet if a Proteſtant, great <hi>Coeſar</hi> be,</l>
+               <l>With the Papiz'd, why holds he ſympathie?</l>
+               <l>Such is the man, as he, with whom he talks,</l>
+               <l>
+                  <hi>Italians</hi> ſay, but chiefe with whom he walks:</l>
+               <l>And Gods Word faith, which cannot be beguiled,</l>
+               <l>Together two walk not, unreconciled.</l>
+               <l>Though that the Swallow eat no corne, all knowes,</l>
+               <l>What doth ſhe yet amongſt the carrion Crowes.</l>
+               <l>As the Clowne told her, when their necks were wrung,</l>
+               <l>Shee bore a ſad part in their fatall ſong.</l>
+               <l>Sound ſheep, ſound men, ſound apples get a ſpot,</l>
+               <l>And taint, by living, (lying) with the rot <note n="d" place="margin">Eſt aliquid mali prop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er vicinum ma<g ref="char:EOLhyphen"/>lum, &amp; dum<g ref="char:EOLhyphen"/>vident l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s oculi, ledun<g ref="char:EOLhyphen"/>tur &amp; ipſi.</note>
+               </l>
+               <l>And who to bad mens manners, be no ſtrangers;</l>
+               <l>By their converſings, doe incure their dangers <note n="e" place="margin">
+                     <hi>Rev.</hi> 18. 4.</note>
+               </l>
+               <l>Why ſhould <hi>Iehoſhaphat</hi> in lawleſſe war,</l>
+               <l>Aſſiſt an <hi>Ahab,</hi> an Idolater <note n="f" place="margin">1 Kin. 22. 4. 2 Kin. 3. 7.</note>
+               </l>
+               <l>Salve this ſly Sophiſters, with Papall prattle:</l>
+               <l>His life was well nigh loſt <note n="g" place="margin">
+                     <hi>Verſ.</hi> 32.</note> in that mad battle;</l>
+               <l>Beſides, he ſo far felt <hi>Aſtroea's</hi> rod,</l>
+               <l>That he was ſore redargued by his God <note n="h" place="margin">2 <hi>Chr.</hi> 19. 2</note>.</l>
+               <l>But Cavilliers will cavill here, and prate,</l>
+               <l>
+                  <hi>Charles</hi> was diſtreſt, and in a piteous ſtraite:</l>
+               <l>(As once our <hi>Engliſh Edward, Iohn,</hi> and <hi>Stephen;</hi>
+               </l>
+               <l>
+                  <hi>Richard</hi> the Second to) and ſo ſtraite driven</l>
+               <l>By his owne Barons, who on him did War,</l>
+               <l>That he muſt ſeeke for ayde, both neere and far.</l>
+               <l>And like a pit falne man, might uſe the fiſt</l>
+               <l>Of <hi>Turke, Iew, Pagan, Popiſt, Polithiſt:</hi>
+               </l>
+               <l>As one diſeas'd to heale him in ſound faſhion,</l>
+               <l>May uſe his art, thats of a forreigne Nation.</l>
+               <l>
+                  <hi>(Gallon, Hipocraies,</hi> of Gretian Race,</l>
+               <l>
+                  <hi>Razit</hi> or <hi>Avicen, Arabians</hi> baſe.)</l>
+               <l>This is a Gordian knot, Malignants thinke,</l>
+               <l>Put one may looſe it, who doth dreame or winke.</l>
+               <l>
+                  <pb n="15" facs="tcp:42681:11"/>
+For firſt Court Sycophants put him in the pit,</l>
+               <l>As all may ſee; who hood-winck not their wit:</l>
+               <l>His patriots too, firme friends, as pure as gold,</l>
+               <l>If on their helping hand he had tooke hold,</l>
+               <l>Had like to <hi>Reuben</hi> 
+                  <note n="i" place="margin">
+                     <hi>Gen.</hi> 37. 21.</note>, and to <hi>Ieremi's</hi> 
+                  <note n="k" place="margin">
+                     <hi>Ier.</hi> 38. 11, 12.</note> friend,</l>
+               <l>Soone hug'd him out, and brought a calming end</l>
+               <l>To his fear'd ſtormes; had kept him ſafe and ſure,</l>
+               <l>(Tho Feares no fence have, Jealouſies no cure.)</l>
+               <l>If his true friends then, (vainly thought his foes,)</l>
+               <l>Had froſt-nipt in their buds, his ſelfe made woes?</l>
+               <l>What need had he to uſe his Mount'bancks more,</l>
+               <l>Who make his bloudy ſalves worſe then his ſore.</l>
+               <l>But eaſie cries the child, whoſe lip doth hang,</l>
+               <l>And ſoone we finde a ſtaffe <note n="l" place="margin">Facile eſt invenire ba<g ref="char:EOLhyphen"/>oulum, ut ce<g ref="char:EOLhyphen"/>das canem.</note> a dog to bang:</l>
+               <l>And we may in the ſtreighteſt bulruſh got,</l>
+               <l>(As Mice make holes in walls) ſoone make a knot.</l>
+               <l>As eaſy, Kings: as combats from the barrell,</l>
+               <l>With their beſt Peeres may pick or make a quarrell.</l>
+               <l>Foxes, tho at the fountaines head they drinke,</l>
+               <l>Lambes at the ſtreames <note n="m" place="margin">Fabula Aeſpi.</note>, themſelves yet wrong'd may think.</l>
+               <l>(From reaſon and Religion, tho much ſwerving)</l>
+               <l>Baſe flattery gets reſpect <note n="n" place="margin">Obſequium omicos, veri<g ref="char:EOLhyphen"/>tas odium pa<g ref="char:EOLhyphen"/>rit.</note>, more then deſerving:</l>
+               <l>In Courts, in Camps, in Colledges, in Schooles,</l>
+               <l>Shewes more then ſubſtances, pleaſe flattered Fooles:</l>
+               <l>But as Kings ſow, they reap <note n="o" place="margin">
+                     <hi>Gal.</hi> 6. 7.</note>, ſelfe doe, ſelfe have,</l>
+               <l>Better to make no wounds, then balmes to crave:</l>
+               <l>Better ſit ſtill, then fall; for factious fellowes,</l>
+               <l>In clawing Kings, but rope themſelves for th'Gallowes,</l>
+               <l>As <hi>Empſon, Dudley</hi> did, and <hi>Gaveſtan,</hi>
+               </l>
+               <l>
+                  <hi>Mortimer, Spencers Haman,</hi> cruſht each one?</l>
+               <l>Ill counſel'd Kings, ſpliton the wracking ſhelves</l>
+               <l>Of their ſelfe-will: by none hurt, but themſelves:</l>
+               <l>Cauſeleſſe on others, tho the blame they lie:</l>
+               <l>As children full dugs ſucking, then moſt crie.</l>
+               <l>If lawleſſe Kings will doe, what doe they ſhould not,</l>
+               <l>Tho Kings, they ſuffer muſt, even what they would not.</l>
+               <l>(No more then Angels, high <note n="p" place="margin">Pet. 2. 4. Iude 6. Caſman his Angelogra<g ref="char:EOLhyphen"/>phia, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d Smal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alds looke of An<g ref="char:EOLhyphen"/>gels.</note>, now turn'd low Devils)</l>
+               <l>They are not free from active paſſive evils;</l>
+               <l>Torrents of woes break on them, ſtill ground winning,</l>
+               <l>Which they might well have ſtopt in the beginning:</l>
+               <l>
+                  <pb n="16" facs="tcp:42681:12" rendition="simple:additions"/>
+Soone is the fracture knit, the broken bone,</l>
+               <l>The freſh wound balm'd; ſcarce cur'd long let alone.</l>
+               <l>Who on the hill top ſtands, he needs not run</l>
+               <l>Downe, neck breake, cliffy rocks, he well may ſhun:</l>
+               <l>But if he will run downe: his wilfull race,</l>
+               <l>Precipitation brings: (a woefull caſe.)</l>
+               <l>He ſtayes not till, he to the bottome come:</l>
+               <l>Then Kings fall <note n="q" place="margin">Fatalianen funt alia &amp; quos perdere vult Deus? res prius <gap reason="illegible" resp="#APEX" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>. Inſtat in multis Gor<g ref="char:EOLhyphen"/>lieius in axt<g ref="char:EOLhyphen"/>omotibus Ec<g ref="char:EOLhyphen"/>cleſ. &amp; polit.</note>, when their brittle glaſſe is run:</l>
+               <l>They need not kindle fires: they may prevent,</l>
+               <l>(By quenching ſparks) the flames, which they repent:</l>
+               <l>Yet as a man halfe drown'd, on ought layes hold,</l>
+               <l>With frivolous, ſcruples, they doe ſtill make bold,</l>
+               <l>Forſooth we muſt not touch the Lords Anointed,</l>
+               <l>In <hi>Davids</hi> caſe? How is this Text di<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oynted:</l>
+               <l>For were not Prieſts Anointed, as were kings?</l>
+               <l>What falſe notes, yet, ſo ere, Court flattery ſings:</l>
+               <l>Malignant Prieſts were toucht, yea two combuſt,</l>
+               <l>Scorcht (like <hi>Romes</hi> Prieſts of <hi>Priapus)</hi> with luſt.</l>
+               <l>Beſides how topſie turvie, head to tale,</l>
+               <l>Is the Text turn'd, as underboard the ſaile,</l>
+               <l>For God reproved Kings for <hi>Iſraels</hi> ſake,</l>
+               <l>His owne Anointed <note n="r" place="margin">
+                     <hi>Pſal. 105. v.</hi> 13, 14, 15,</note>, not, (as moſt miſtake,)</l>
+               <l>
+                  <hi>Iſrael</hi> for touching Kings: whom they deſtroy'd,</l>
+               <l>
+                  <hi>(Seon</hi> and <hi>Og</hi> 
+                  <note n="s" place="margin">
+                     <hi>Pſal.</hi> 136. 18, 19,</note>: and ſuch as them anoy'd:</l>
+               <l>Thus regall miſts diſpers'd, and clouds diſpel'd,</l>
+               <l>For legall muſt our patriots warres be held.</l>
+               <l>Lord ope all eyes; how is the ſword abuſed,</l>
+               <l>Againſt them: Iſt for Liberties, Lawes uſed?</l>
+               <l>For, or againſt the Wolfe? your wits bring hither,</l>
+               <l>Birds of a feather ever flock together.</l>
+               <l>To ſhut your eyes againſt the Sun its vaine;</l>
+               <l>
+                  <hi>Prynns</hi> royall favourite, doth make this plaine <note n="t" place="margin">
+                     <hi>As alſo the blabbing Let<g ref="char:EOLhyphen"/>ters now lopc<g ref="char:EOLhyphen"/>ned. ſound in the Kings Ca<g ref="char:EOLhyphen"/>binet at Nas<g ref="char:EOLhyphen"/>by Field.</hi> T</note>
+               </l>
+               <l>Hence our <hi>Armodians, Ariſtogitons,</hi>
+               </l>
+               <l>Our <hi>Brutuſſes,</hi> and our <hi>Timoleons:</hi>
+               </l>
+               <l>Our <hi>Statiſts, Ephoriſts,</hi> have juſt Armes tooke up,</l>
+               <l>Ere they their owne bloud drunke, in ſuch a cup,</l>
+               <l>As <hi>Alexander Pops,</hi> prepard one night</l>
+               <l>To poyſon Cardinals <note n="u" place="margin">Apud Guic<g ref="char:EOLhyphen"/>cardinum &amp; platinam.</note>: or Monkiſh ſpite, <note n="w" place="margin">The Monks of Bangor poi<g ref="char:EOLhyphen"/>ſoned him in the Euchariſt</note>
+               </l>
+               <l>For Engliſh <hi>John,</hi> and <hi>Henry</hi> Emperour,</l>
+               <l>When their worſt humours, they began to ſtir,</l>
+               <l>
+                  <pb n="17" facs="tcp:42681:12"/>
+Hence grew <hi>Vatiman,</hi> tho defenſive wars,</l>
+               <l>More bloudy then the worſt, of civill jars,</l>
+               <l>'Twixt <hi>Guelphes,</hi> and <hi>Gibellines, Italians,</hi>
+               </l>
+               <l>The <hi>French, Aurelians,</hi> and <hi>Burgundians,</hi>
+               </l>
+               <l>The <hi>Florentine Pazzi,</hi> and the <hi>Medices,</hi>
+               </l>
+               <l>Yea, <hi>Spinoliſts</hi> and <hi>Dorians,</hi> not like theſe,</l>
+               <l>In <hi>Genoa:</hi> Nor in Saint <hi>Patricks</hi> Land,</l>
+               <l>Where <hi>Butlers</hi> bold, did <hi>Geraldines</hi> withſtand.</l>
+               <l>Yea theſe hot bickerings, which <hi>Romes</hi> ruines wrought,</l>
+               <l>When the <hi>Caſarians</hi> with <hi>Pompeians</hi> fought:</l>
+               <l>And when fierce <hi>Saylla,</hi> who <hi>Marius</hi> ſlew,</l>
+               <l>Unto his ſide ſanguinolent Factions drew.</l>
+               <l>Nor <hi>Catelines</hi> Conſpiracy of old,</l>
+               <l>Which <hi>Saluft</hi> hath, in bloudy lines inrol'd:</l>
+               <l>Nor theſe Battalians, when <hi>Laucaſtrian</hi> line,</l>
+               <l>In <hi>Albion,</hi> did from houſe of <hi>Yorke</hi> decline.</l>
+               <l>When as the <hi>White Roſe</hi> in twice fourteen yeares,</l>
+               <l>Was dy'd in bloud of Vulgars, Nobles, Peores</l>
+               <l>All theſe with many ſuch, where luſt, pomp, pride,</l>
+               <l>In bloudy coaches, did in Trophies ride,</l>
+               <l>Were ſcarce like ours ſo fatall, fierce, falſe, thieving,</l>
+               <l>Sanguinolent, mercurializ'd, miſchieving.</l>
+               <l>Like <hi>Cadmus</hi> brethren, and the <hi>Midi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nites</hi> 
+                  <note n="x" place="margin">
+                     <hi>Iud.</hi> 7. 22. <hi>y 2 Sam.</hi> 2. 16</note>;</l>
+               <l>
+                  <hi>Joahs</hi> and <hi>Abners</hi> men y, in Martiall fights;</l>
+               <l>We one another ſtab: the Son the Sire,</l>
+               <l>Some ſcarce know why, ſince Goſpell all deſire,</l>
+               <l>As all pretend: yet muſt be propagated</l>
+               <l>By ſuch as Grace, and Goſpell ever hated.</l>
+               <l>(As Puttocks, Chicks,) <hi>Arminians</hi> 
+                  <note n="z" place="margin">Painted Papiſts.</note>, <hi>Papiſts, Kebs,</hi>
+               </l>
+               <l>
+                  <hi>Atheſts;</hi> with <hi>Harpies</hi> Talents, bloudy nebs?</l>
+               <l>Who would pervert, (ſubvert) Religion, Lawes,</l>
+               <l>With wiles of Foxes, and the Lions pawes.</l>
+               <l>Great <hi>Charles,</hi> blind-folded long <hi>Collirium</hi> 
+                  <note n="a" place="margin">
+                     <hi>Rev.</hi> 3. 18.</note> get,</l>
+               <l>And <hi>Hellibare</hi> 
+                  <note n="b" place="margin">Opus eſi He<g ref="char:EOLhyphen"/>lebaro Horacè</note>, to cure thy after wit:</l>
+               <l>Leaſt <hi>Troian</hi> like, thy deare bought, after lore,</l>
+               <l>Cauſe thee to wiſh thou had been wiſe before:</l>
+               <l>Us'd art thou ladder like, <hi>Romes</hi> ends to climbe, <note place="margin">c Sero ſapi<g ref="char:EOLhyphen"/>unt thriges, ſero medicina paratur.</note>
+               </l>
+               <l>A Maſſe-God to reſetle in this Clime:</l>
+               <l>Round-headed ſheep devour'd, dogs, ſhepheards, hang'd:</l>
+               <l>
+                  <hi>Tiberian</hi> Wolves brought in; unbit, unbang'd,</l>
+               <l>
+                  <pb n="18" facs="tcp:42681:13"/>
+                  <hi>England</hi> a golden Gooſe, like <hi>Venice, Spaine,</hi>
+               </l>
+               <l>Freſh pluckt, by <hi>Peter-pence,</hi> brought in againe:</l>
+               <l>Then throw this Ladder by, they'l cry or burn it,</l>
+               <l>Unleſſe to <hi>Rome</hi> or <hi>Tiber,</hi> we can turne it,</l>
+               <l>
+                  <hi>Fauxes</hi> and <hi>Ravillacks,</hi> they have yet ſtore,</l>
+               <l>To uſe thee as <hi>French Henries</hi> heretofore:</l>
+               <l>As living Inſects doe from dead Brutes breed,</l>
+               <l>From <hi>Parry, Lopus, Titohburne, Squire,</hi> proceed.</l>
+               <l>A neſt of vipers, which would ſting thy breſt,</l>
+               <l>Thee (as our <hi>Deborahs</hi> 
+                  <note n="d" place="margin">See Camb<g ref="char:EOLhyphen"/>deus Eliz. b. &amp; Spencers fiery Queens, of this late Deborah.</note> once) they doe deteſt:</l>
+               <l>Unleſſe like their two <hi>Maries,</hi> thou be knowne,</l>
+               <l>Their Catholick creature; tooth and naile their owne:</l>
+               <l>Thy face, (fate ſtate) in other Kings, broke glaſſes,</l>
+               <l>View, rue: be not feduc'd, by ſnakes, or aſſes.</l>
+               <l>In Court and Camp, thou wil'ſt be waited on,</l>
+               <l>By many a <hi>Iaques, Clement, Babington:</hi>
+               </l>
+               <l>Jeſuites, aſſaſſinates, to make thee breake,</l>
+               <l>Unleſſe the language of the Beaſt <note n="e" place="margin">
+                     <hi>Rev.</hi> 13. 15. 16.</note> thou ſpeake.</l>
+               <l>And be an Agent of the ſcarlet Whore,</l>
+               <l>Sure as thy Creed, they ayme the King no more.</l>
+               <l>If every Roundhead, in <hi>Herodia's</hi> wiſh,</l>
+               <l>Were lopt like <hi>Iuhasf,</hi> 
+                  <note n="f" place="margin">
+                     <hi>Marke</hi> 6.</note> laid in a Courtly diſh:</l>
+               <l>If Proteſtants all, were in their bloudy doome,</l>
+               <l>As headleſſe as <hi>Caligula</hi> 
+                  <note n="g" place="margin">Suetonius.</note>, wiſht <hi>Rome:</hi>
+               </l>
+               <l>Thee and thine <hi>Eſther,</hi> (tho not worth the name,)</l>
+               <l>Thy <hi>Hamans</hi> would conſume <note n="*" place="margin">Cum here<g ref="char:EOLhyphen"/>ticis nulla fides.</note> in ſelfe ſame flame,</l>
+               <l>With thy beſt Subjects, who the Whoore doe hate <note n="h" place="margin">
+                     <hi>Rev.</hi> 17. 14.</note>
+               </l>
+               <l>Thou (thine) would ruine, with thy ruined State:</l>
+               <l>Eyes quick as <hi>Argus, Linceus,</hi> Haukes and Eagles,</l>
+               <l>Doe ſee thee haunted, hunted, with <hi>Romes</hi> Beagles.</l>
+               <l>
+                  <hi>French, Iriſh, Engliſh;</hi> and lament thy ſtate,</l>
+               <l>'Moagſt thy <hi>Nimrodia<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> moſt <hi>Italianite.</hi>
+               </l>
+               <l>Who tho they Spaniell-like, now feine and jeere thee,</l>
+               <l>(As Apes and Monkies mop,) yet would they teare thee</l>
+               <l>Worſe then <hi>Actaeons</hi> dogs, when to dire dangers,</l>
+               <l>They had thee brought, by <hi>Romaniz'd Meanders.</hi>
+               </l>
+               <l>Moſt Noble <hi>Charles,</hi> what <hi>England, Ireland</hi> feares,</l>
+               <l>Or feeles from Papiſts come, and Cavilliers.</l>
+               <l>Right ſaddles for to ſet upon right horſes,</l>
+               <l>Thy Prieſts thy Prelates, be our curſes croſſes.</l>
+               <l>
+                  <pb n="19" facs="tcp:42681:13"/>
+Yet tho the naked truth in <hi>Ruth</hi> I write,</l>
+               <l>With beaſts at <hi>Ephe ſui,</hi> I ſeeme to ſight.</l>
+               <l>Yet ſheep doe bleat, bulls bollow, orblaſpheme.</l>
+               <l>Vociferating loud this threed-bare theame:</l>
+               <l>What, ſhall we have no King? will you put downe</l>
+               <l>His Regall Scepter; Diadem, and Crowne?</l>
+               <l>Shall Monarchy, turne to Democracie?</l>
+               <l>Or into flouriſhing Arriſtocracie?</l>
+               <l>(As once in <hi>Lacedemon, Athens, Greece,</hi>
+               </l>
+               <l>And now in <hi>Venice,</hi> with their golden fleece;</l>
+               <l>The <hi>Cantons, Belgicks,</hi> and the proſperous <hi>Duteh,</hi>
+               </l>
+               <l>What dares your zeale, the Lords Anointed touch:</l>
+               <l>Is this concordant to Religion, reaſon?</l>
+               <l>Or to ſpeake roundly, plaine <hi>Roundbeaded</hi> Treaſon:</l>
+               <l>Thus like the Clownes ſhorne Hog, the world you gull,</l>
+               <l>Here is much cry, but very little wooll.</l>
+               <l>The poore bird <hi>Taurus</hi> 
+                  <note n="i" place="margin">Apud Pli<g ref="char:EOLhyphen"/>nium,</note> hath a little body,</l>
+               <l>Yet ſuch a night voyce hath, would feare a Noddy.</l>
+               <l>Here's rock and ſpindle, but our yarne you want,</l>
+               <l>Your Queree's have ſomeſhowes, with ſubſtance ſcant.</l>
+               <l>Great bolts you ſhoot, but will you ſtand and ſtay,</l>
+               <l>The <hi>Perſians</hi> and <hi>Hybernians</hi> run away;</l>
+               <l>(Their darts once caſt,) as <hi>Cravens</hi> out of pits,</l>
+               <l>Cowards, have <hi>Clineas,</hi> and <hi>Dametas</hi> wits,</l>
+               <l>To ſcold, not fight; your ſcruples we indite them</l>
+               <l>Of ſpleene: It's to confute them <note n="k" place="margin">Reeitaſſe eſt confutaſſe ut <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lim Bernar<g ref="char:EOLhyphen"/>dus do hereſi<g ref="char:EOLhyphen"/>bus.</note> to recite them,</l>
+               <l>To all your queſts; ſimplicians, heare our noes,</l>
+               <l>You vent what's vaine: Oh ſee your ſelfe wrought woes</l>
+               <l>The <hi>Roundheads</hi> cauſe the ruines of the Land,</l>
+               <l>As <hi>Stentertons</hi> Steeple, cauſed <hi>Goodwins</hi> ſand:</l>
+               <l>They like to <hi>Noah, Lat, Moſes, Aaron</hi> ſtay</l>
+               <l>Floud-gates of wrath, would waſh us quite away.</l>
+               <l>
+                  <hi>Elias</hi> did not trouble <hi>Iſrael,</hi>
+               </l>
+               <l>But <hi>Ababs</hi> Chaplaiues, and their <hi>Jezabelle</hi>
+               </l>
+               <l>The Lambs Plea to the Fox ſtands in ſmall ſtead,</l>
+               <l>He dies for troubling of the Fountaines head.</l>
+               <l>Had powder plot prevail'd, the <hi>Puritane,</hi>
+               </l>
+               <l>Not acting Papiſt, ſhould have borne tho blame.</l>
+               <l>
+                  <hi>Emilius</hi> did it, but <hi>Rutilius</hi> 
+                  <note n="a" place="margin">Fecit Emi<g ref="char:EOLhyphen"/>lius, plectitus Rutilius.</note>
+               </l>
+               <l>Muſt ſuffer, Is not this injurious</l>
+               <l>
+                  <pb n="20" facs="tcp:42681:14"/>
+Court brambles we would lop, but they are held</l>
+               <l>Precious; and fruit-trees beſt, for bryars repel'd.</l>
+               <l>We loath Court gangreenes, ſpred from ill to worſe,</l>
+               <l>We love all pure like gold, we hate the droſſe:</l>
+               <l>We love not thornes and pricks: we love the roſe,</l>
+               <l>The King we dearly love: but not his foes:</l>
+               <l>Except as we for their converſion pray,</l>
+               <l>Or fear'd concluſion; (dogs have but their day;</l>
+               <l>As had <hi>Apoſtate Iulian,</hi> whoſe curſt head,</l>
+               <l>By prayers the Primitive Church, ſoone cruſhed dead,</l>
+               <l>Tyrants like him be clouds <note n="l" place="margin">Nubecula eito Iranſiens</note> or ſquibs I thinke,</l>
+               <l>Their flaſhes, fires, cracks, thunders <note n="m" place="margin">Read the booke called Brute fulmi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note>, end in ſtinke.</l>
+               <l>Quince, Apples, Peares, we love, but we love not,</l>
+               <l>In peares (or Peares) or Prince, what's naught and rot,</l>
+               <l>Like to <hi>Ezekiels</hi> Figs; the nuts faire ſhell,</l>
+               <l>We loath: of wormes, if the rot kernell ſmell:</l>
+               <l>A King we love for wiſdome, not for wracks,</l>
+               <l>Borne in Malignants Armes, or on their backs;</l>
+               <l>Chain'd to their hearts: his power pind on their ſleeve,</l>
+               <l>To ſhoot their bolts, to ſeale what they beleeve:</l>
+               <l>We love a ſhepheard, who loves in his heart</l>
+               <l>His ſheep: but not as he with wolves takes part,</l>
+               <l>Seales them a warrant, or his Shepperdeſſe,</l>
+               <l>(Or ſleeps till ſeal'd,) to woory great and leſſe,</l>
+               <l>A hundreth fifty thouſand, as Prieſts boaſt,</l>
+               <l>In (the right land of Ire) Saint <hi>Patricks</hi> coaſt.</l>
+               <l>Beſides theſe naked ſtript, as creckets, wormes,</l>
+               <l>In froſts, and colds, ſterv'd to untimely urnes.</l>
+               <l>The Sun we love and Planetary powers,</l>
+               <l>Ripening plants, minerals; filling our bowers</l>
+               <l>With <hi>Ceres, (Bacchus) Fruites:</hi> but when in May</l>
+               <l>Malignant Planets ſo doe be are the ſway;</l>
+               <l>Calme aire that they imbitter, and dive hence,</l>
+               <l>
+                  <hi>Phebus</hi> his ſweet, and fruitfull influence,</l>
+               <l>This we love not: ſince what God gives moſt good</l>
+               <l>Turnes worſt infected <note n="n" place="margin">Corrup<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io optimi peſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>, like corrupted bloud,</l>
+               <l>Which purer that it was, it ſooner locks</l>
+               <l>Life in Death chaines, by ſeavers, peſts and pox,</l>
+               <l>Infection taking ſoone; as tinder powder</l>
+               <l>Takes fire; which makes the crack (the wrack) the louder.</l>
+               <l>
+                  <pb n="21" facs="tcp:42681:14"/>
+A ſword we love well matcht, well watcht, well man'd,</l>
+               <l>In <hi>Davids</hi> 
+                  <note n="o" place="margin">1 <hi>Sam.</hi> 21. 9.</note>, <hi>Salomons</hi> 
+                  <note n="p" place="margin">1 <hi>Kin.</hi> 3. 24.</note>, or <hi>Samuels</hi> hand;</l>
+               <l>To how our <hi>Hagags</hi> 
+                  <note n="q" place="margin">1 <hi>Sam.</hi> 15. 32, 33.</note>, our <hi>Amalakites,</hi>
+               </l>
+               <l>Which doth avenge our blouds, our wrongs with rights;</l>
+               <l>Not governed by a fem, fox, child <note n="r" place="margin">Ne puera gladium.</note> or boy <note n="s" place="margin">Iuvenis ata<g ref="char:EOLhyphen"/>te &amp; moribus apud philoſo<g ref="char:EOLhyphen"/>phum.</note>
+               </l>
+               <l>Themſelves or others likely to deſtroy:</l>
+               <l>This is <hi>Tom-tell-truth;</hi> and in plaine words ſaid,</l>
+               <l>We <hi>Macedonians</hi> call a ſpaide a ſpaide:</l>
+               <l>We from equivocating are averſe,</l>
+               <l>With <hi>Friers</hi> and <hi>Ieſartes</hi> we doe not converſe;</l>
+               <l>Their vermiſht Lies, and their Gunpowder evill,</l>
+               <l>They learned from the Serpent <note n="t" place="margin">Gen. 3. 5. Eritu tan<g ref="char:EOLhyphen"/>quans dij, id eſt demon<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>, from the Devill.</l>
+               <l>For to anatomize our hearts more plaine,</l>
+               <l>Let Momus through and through them looke againe.</l>
+               <l>A Pilot wiſe we love; which ſet at Helme,</l>
+               <l>Steeres right: not thoſe, who State-ſhips overwhelme,</l>
+               <l>Ill counſelled, to ſplit us on the rocks</l>
+               <l>Of Papiſme, Lawleſſe, will, Court flattering, blocks:</l>
+               <l>Our Children deare we love: but we love not</l>
+               <l>In Children, ſcuiffes, ſcabs, carbuncles, or ſpot;</l>
+               <l>Their bodies, ſoules, healths wealths, and names we love,</l>
+               <l>But their vaine humours we doe not approve:</l>
+               <l>Chiefe their unequall weddings; when vaine elves,</l>
+               <l>With us they quite undoe, their ſilly ſelves:</l>
+               <l>Ruinate their houſes, breake their parents hearts,</l>
+               <l>As <hi>Eſau</hi> did, by acting <hi>Eſau's</hi> parts:</l>
+               <l>By marrying with a <hi>Hetbete</hi> 
+                  <note n="u" place="margin">
+                     <hi>Gen</hi> 26. 34. 35.</note>, <hi>Cananite</hi> 
+                  <note n="w" place="margin">
+                     <hi>Deut</hi> 7. <hi>&amp; Chap.</hi> 13.</note>,</l>
+               <l>Whom God and good men have abhorred quite:</l>
+               <l>By matching with a <hi>Dallilah,</hi> a <hi>Lais,</hi>
+               </l>
+               <l>A <hi>Rhodope, Zantippe, Flora, Thais:</hi>
+               </l>
+               <l>
+                  <hi>Romes</hi> proud <hi>Poppea,</hi> or <hi>French Bruni</hi> child,</l>
+               <l>(Beſt Peeres of <hi>France,</hi> by bloudy wiles, who kil'd)</l>
+               <l>Chiefe wedding one infected with diſeaſe</l>
+               <l>Of ſwolne ſpleens like, <hi>Katherine de medices:</hi>
+               </l>
+               <l>
+                  <hi>Margaret</hi> of <hi>France,</hi> and ſuch <hi>French</hi> fems as ever,</l>
+               <l>Ominous to <hi>England</hi> were, but proſperous never:</l>
+               <l>As now our preſſures are beyond expreſſion</l>
+               <l>Able in marbled hearts, to make impreſſion,</l>
+               <l>More cauſe to ſhow of our inforced Wars,</l>
+               <l>Were drops to adde to ſcas, to Sunſhine Stars.</l>
+               <l>
+                  <pb n="22" facs="tcp:42681:15"/>
+As we <hi>Charles</hi> Perſon, (not his Paraſites) love,</l>
+               <l>Heaven ſpeed our Plough: our Cauſe ſo bleſſe great <hi>Jove,</hi>
+               </l>
+               <l>Moraliſts who <hi>Ethicks</hi> read, know in a trice,</l>
+               <l>That we may love a man, but hate his vice:</l>
+               <l>In Loſer, Loves, Luſts, Follies ſonnes we hate,</l>
+               <l>Chiefe when their Comrades, would them ruinate,</l>
+               <l>And they with <hi>Eli's</hi> ſons to ruine tending <note n="x" place="margin">1 <hi>Sam.</hi> 2. 25</note>
+               </l>
+               <l>To all good counſels deafned eares belending;</l>
+               <l>As Records writ (like <hi>Thehas</hi> and <hi>Troy)</hi> in bloud,</l>
+               <l>Relate their falls, who Counſels have withſtood:</l>
+               <l>Lies then which taxe our loves, come from the Devill,</l>
+               <l>Once more we love the King; not the King a Evill,</l>
+               <l>Which hath kild moe within this three yeares ſpace,</l>
+               <l>In both Climes, of each Sect, Sex, Garbe. and Race;</l>
+               <l>Then all late plagues, in <hi>Auſtria</hi> 
+                  <note n="y" place="margin">In Groſius his Tragicall Hiſtories.</note> 
+                  <hi>Rome, Vienna,</hi>
+               </l>
+               <l>Which Idolizers ſhipped for <hi>Gehenna,</hi>
+               </l>
+               <l>In <hi>Charons</hi> boate: Oh here the ſhooe doth wrinch!</l>
+               <l>We doe not put it off, yet tho it pinch,</l>
+               <l>As Court, Camp, State, by <hi>Doegs</hi> be disjoynted,</l>
+               <l>
+                  <hi>Doegs</hi> we touch; but not the Lords Annoynted.</l>
+               <l>Let this then muzzle all Malignant lips,</l>
+               <l>The Prince we love; but not his Peſts, our Whips <note n="z" place="margin">
+                     <hi>Eſay</hi> 10. 5.</note>:</l>
+               <l>We are not Spaniels, nor yet <hi>Ruſſian</hi> Wives,</l>
+               <l>We cannot love our beaters, for our lives.</l>
+               <l>We are not Stockfiſh, <hi>Iriſh-Lacquies-Laſſes:</hi>
+               </l>
+               <l>Better for beating, like to Hemp and Aſſes:</l>
+               <l>Of Travellers coriatiz'd, we paſſe the rankes,</l>
+               <l>We cannot injuries receive with thankes.</l>
+               <l>If a <hi>Muſalman</hi> ſtrike an <hi>Engliſh</hi> man</l>
+               <l>Right bred; he ſparrs but with a Cocke oth' game.</l>
+               <l>What need my moved Muſe Apologize</l>
+               <l>More, for our Senators, juſt, pious, wiſe:</l>
+               <l>Our Patriots themſelves well underſtand,</l>
+               <l>They aime to ſweep <hi>Romes</hi> Locuſts from the Land:</l>
+               <l>To ſhake thoſe poyſonous vipers off, which cleave,</l>
+               <l>More like to <hi>Charles</hi> his heart, then hand or ſleeve;</l>
+               <l>By demonſtration this is more then plaine,</l>
+               <l>To every eye not blinde, head mad, heart vaine:</l>
+               <l>A King they wiſh like gold, reſin'd (removed</l>
+               <l>The droſſe) as once of God and man beloved,</l>
+               <l>
+                  <pb n="23" facs="tcp:42681:15"/>
+Like <hi>John</hi> 
+                  <note n="a" place="margin">
+                     <hi>Luke</hi> 1. 80.</note> and <hi>Samuel,</hi> by <note n="b" place="margin">1 <hi>Sam.</hi> 2. 26</note> good behaviour,</l>
+               <l>Who grew with God and man in grace and favour,</l>
+               <l>As <hi>Nero</hi> 
+                  <note n="c" place="margin">In <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is qu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n niu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> for ſome yeares vvas lov'd of Saints,</l>
+               <l>Ere fired <hi>Rome,</hi> with Martyrs bloud he paints,</l>
+               <l>Their loves turne pities, that by ſlattering breath,</l>
+               <l>Too credulous Kings, ſhould laughing goe to death,</l>
+               <l>As did <hi>Cel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nus</hi> 
+                  <note n="d" place="margin">Apud Cur<g ref="char:EOLhyphen"/>tium.</note> that <hi>Gymnoſaphiſt.</hi>
+               </l>
+               <l>And learn'd <hi>Democritus, Philologiſt.</hi>
+               </l>
+               <l>Tho ſubtle cubs, by clawings, <hi>Tigers</hi> pleaſe,</l>
+               <l>(As <hi>Dioniſius</hi> hug'd, baſe <hi>Damocles)</hi>
+               </l>
+               <l>Their pawes yet felt, ill manag'd by their breeders,</l>
+               <l>They kill for want of clawing, friends and feeders.</l>
+               <l>I draw my paper ſailes up at this time,</l>
+               <l>In few words, adde my <hi>Colophonian</hi> line:</l>
+               <l>We love a wiſe, juſt, and right counſelled King,</l>
+               <l>But not a vaſſalized underling;</l>
+               <l>To what his creature mould him, toſt and hurried,</l>
+               <l>As in their ſhip and coach; or hauke-like carried,</l>
+               <l>As on his Faulconess fiſts, (whom he ſo loves,)</l>
+               <l>Tibers Crowes ſpan'd, to pounce his rich plum'd Doves.</l>
+               <l>
+                  <hi>Phebus</hi> we lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, not <hi>Phae<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> to ride.</l>
+               <l>Drawne with wilde horſes trapt in Prelates pride:</l>
+               <l>Yea Horſes of <hi>Belleroph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> too bad,</l>
+               <l>Which wiſe <hi>Minerva's</hi> curbing bit nee'r had.</l>
+               <l>
+                  <hi>David Sauls</hi> skin <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oucht not <note n="e" place="margin">1 <hi>Sam.</hi> 24. 10.</note>, yet in his rage,</l>
+               <l>His harp and hand <note n="f" place="margin">1 <hi>Sam.</hi> 16. 23.</note>, his frenzies did aſſwage:</l>
+               <l>Now our <hi>Patritians, Davids</hi> Art and Heart</l>
+               <l>Doe uſe; inforc't to act the curbing part,</l>
+               <l>Of juſt wiſe <hi>Ephoriſts,</hi> as moſt phys<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>call,</l>
+               <l>To cure the humours tumours of ſome <hi>Saul,</hi>
+               </l>
+               <l>Whoſe furious daris are throwne in either clime,</l>
+               <l>At <hi>Jonathans</hi> juſt <note n="g" place="margin">1 <hi>Sam.</hi> 20. 23.</note> but at no <hi>Philiſtine,</hi>
+               </l>
+               <l>Unto, untun'd States, Pretors, Tribunes ever,</l>
+               <l>Muſitians were, Chyrurgians, which the Liver,</l>
+               <l>Yea, Heads and Hearts of dead ſick Common-wealths,</l>
+               <l>Did ſeeke to cure, and to procure their healths:</l>
+               <l>As our <hi>Samaritans</hi> ſeeke to heale and help,</l>
+               <l>Now a ſick King, ſicke ſtate, (what ere <hi>Kebs</hi> yelp)</l>
+               <l>Yea for to reſcue him, my faith beleeves,</l>
+               <l>Both falne and wounded' mongſt a den of theeves.</l>
+               <l>
+                  <pb n="24" facs="tcp:42681:16"/>
+His true friends credit this, ſure as their <hi>Creed,</hi>
+               </l>
+               <l>Their <hi>Pater noſter</hi> is, he may not bleed:</l>
+               <l>That no haire from him fall, no finger ake,</l>
+               <l>At thought of which, their very hearts doe quake:</l>
+               <l>They wiſh that from Court Philters free, from Charmes</l>
+               <l>Of <hi>Baby'onians,</hi> he be free from harmes:</l>
+               <l>His Senators (firmeſt friends) theſe ſnakes deteſt,</l>
+               <l>Who hate his Perſon: Crowne: Seed: Eagled neſt,</l>
+               <l>For him and his, they heartily doe pray <note n="h" place="margin">1 <hi>Tim.</hi> 2. 2.</note>,</l>
+               <l>As <hi>Paul</hi> for <hi>Nero</hi> 
+                  <note n="i" place="margin">Nero reigned in Pauls time under whom be was cru<g ref="char:EOLhyphen"/>cified with Peter.</note>, (tho contrary way,</l>
+               <l>Some Serpents hiſſe) for King of <hi>Babylon,</hi>
+               </l>
+               <l>As <hi>Ienos</hi> did pray: (what ere fooles babble on)</l>
+               <l>So they for him: that God would ope his eyes,</l>
+               <l>Direct, correct his will, and make him wiſe;</l>
+               <l>Like the patrizing ſon of him, whoſe name,</l>
+               <l>Of <hi>Rex pacifious,</hi> loud trumps his fame:</l>
+               <l>We pray his courſe by Parliamenting lore,</l>
+               <l>That he may ſleare, as <hi>Albions</hi> Kings of yore:</l>
+               <l>This <hi>Via Lactea,</hi> in a golden meane;</l>
+               <l>Would make him unto after times a Theame.</l>
+               <l>Yea, ſubject of an Annall, and a Story,</l>
+               <l>Graven in braſſe, to his immortall glory:</l>
+               <l>As were our <hi>Henries,</hi> Fifth, and Seventh, (Not Eight)</l>
+               <l>Young <hi>Edward, Iames, Eliza.</hi> who rul d right.</l>
+               <l>
+                  <hi>Alphonſus, Domocles,</hi> and <hi>Ariſtides,</hi>
+               </l>
+               <l>Envied <hi>Thaniſtocles, Mil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iades.</hi>
+               </l>
+               <l>We pray he may live bleſt, like <hi>Charldemaine,</hi>
+               </l>
+               <l>And riſe in Honour, (dead) above <hi>Charles Waine:</hi>
+               </l>
+               <l>Thus votes each <hi>Round-head,</hi> and each Sound-head plaine,</l>
+               <l>His, and the Kingdomes loſſe, ſo to regaine:</l>
+               <l>This would them glad, as if from <hi>France</hi> and <hi>Spaine</hi>
+               </l>
+               <l>
+                  <hi>Charles</hi> were return'd, into himſelfe againe;</l>
+               <l>(As by a metaphoriz'd tranſmutation,</l>
+               <l>Or by a <hi>Pythagoriau</hi> tranſmigration,)</l>
+               <l>His going from himſelfe, into vaine hearts,</l>
+               <l>Good ſoules hath ſadded (madded) hatcht our ſmarts.</l>
+               <l>Malignants doe not theſe beleeve at all,</l>
+               <l>But on our Senators acts, ſtill ſpurt more gall.</l>
+               <l>Our State diſeaſe now found withouten fees,</l>
+               <l>I curing counſell give; cut downe the trees</l>
+               <l>
+                  <pb n="25" facs="tcp:42681:16"/>
+Which bud from <hi>Tiber,</hi> and to <hi>Tiburns</hi> tend,</l>
+               <l>At leaſt their lopping cropping I commend:</l>
+               <l>Or elſe tranſlate them to another ſoile;</l>
+               <l>Who would not worry wolves, the lambs who ſpoile?</l>
+               <l>When the great <hi>Pan</hi> (beats dogs, which fright the fox,</l>
+               <l>And ſides with wolves, then <hi>Roundheads</hi> fit for blocks;</l>
+               <l>Then will the world run round on whirling wheeles,</l>
+               <l>Antipodiz'd, then goe our upward heeles,</l>
+               <l>And downe falne heads: the Cavillier then ſwaggers,</l>
+               <l>Or reeles, like calves with ſturdy, horſe with ſtaggers,</l>
+               <l>Fooles we who chuſe the brambles, leave the Cedars,</l>
+               <l>Olives and Vines to be our Heads, Guides, Leaders.</l>
+               <l>Whil'ſt each <hi>Abimelecke,</hi> like ram or beare, <note place="margin">Iudges 9. per toium.</note>
+               </l>
+               <l>Our <hi>Gidconized</hi> heads would cruſh; throates teare:</l>
+               <l>Dragging the Lion too, to take their part,</l>
+               <l>(As doth the Lioneſſe) whil'ſt they his heart,</l>
+               <l>(Unpapiz'd) plot to pierce, yet 'mongſt themſelves,</l>
+               <l>
+                  <hi>Scichimites</hi> may fight: milſtones <note n="i" place="margin">
+                     <hi>verſe</hi> 53.</note> may cruſh theſe elves;</l>
+               <l>As once on <hi>Ameleck</hi> were hailſtones rained,</l>
+               <l>(Sling'd ſtones <note n="k" place="margin">
+                     <hi>Sam.</hi> 17 49</note>, hornes <note n="l" place="margin">
+                     <hi>Ioſh.</hi> 6. 20.</note>, goads <note n="m" place="margin">
+                     <hi>Iudges</hi> 3. 3</note>, jawbones <note n="n" place="margin">
+                     <hi>Cha.</hi> 15. 16.</note>, have Tyrants (tamed,)</l>
+               <l>Some way juſt <hi>Nemeſis</hi> will burne our bryers:</l>
+               <l>What trees be not for fruits <note n="o" place="margin">
+                     <hi>Mat.</hi> 3. 10.</note>, muſt be for fires:</l>
+               <l>Downe muſt they, tho whole woods, and groves for number,</l>
+               <l>The Common-wealths grand forreſt, if they cumber:</l>
+               <l>Our <hi>Iothams</hi> juſt, from times and hiſtories,</l>
+               <l>Propound theſe parables, theſe miſteries:</l>
+               <l>Tho like <hi>Caſſandra,</hi> they be not beleeved,</l>
+               <l>Which glads mad <hi>Greekes,</hi> tho <hi>Trojans</hi> true be grieved:</l>
+               <l>Each truſty <hi>Troilus, Laomedon,</hi>
+               </l>
+               <l>
+                  <hi>Chalcas</hi> and <hi>Hector</hi> for their madneſſe mourne,</l>
+               <l>Whil'ſt every <hi>Paris,</hi> who his Paradice</l>
+               <l>Plants in his luſts, is blinde to all advice:</l>
+               <l>So much Court <hi>Philters,</hi> poyſoned, can bewitch them,</l>
+               <l>Till their owne rods of ruine, ſcourge and ſwitch them:</l>
+               <l>Meane ſpace <hi>Aeolian,</hi> and <hi>Dardanian</hi> ſmarts,,</l>
+               <l>Whil'ſt princely <hi>Priamus</hi> acts even pitied parts:</l>
+               <l>Who leaſt his fatall favourites be annoyed,</l>
+               <l>Lets <hi>Troy</hi> 
+                  <note n="*" place="margin">Quicquid delirant Re<g ref="char:EOLhyphen"/>ges plectuntur Achivi.</note> ſtill burne; till <hi>Ilium</hi> be deſtroyed:</l>
+               <l>Yet he and his for bloud of many an <hi>Abell,</hi>
+               </l>
+               <l>May by his mad blades fall, tho propt by <hi>Babell:</hi>
+               </l>
+               <l>
+                  <pb n="26" facs="tcp:42681:17"/>
+(As in good <hi>Davids</hi> dayes it came to paſſe p, <note place="margin">2 Sam. 21. 1,</note>
+               </l>
+               <l>Whoſe Kingdome for <hi>Sauls</hi> bloudy houſe plagu'd was.)</l>
+               <l>Unleſſe ſome Hearb of Grace, ſo rub his eye,</l>
+               <l>For crimſon ſiunes ſeene, he for mercies, cry</l>
+               <l>(As did <hi>Mauritius</hi> 
+                  <note n="q" place="margin">Crying when mur<g ref="char:EOLhyphen"/>thered by Phocas: juſt us eſt dominus &amp; rectum ju<g ref="char:EOLhyphen"/>dicium.</note> 
+                  <hi>Theodoſius</hi> 
+                  <note n="r" place="margin">After his Theſſalonian Maſſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Ambroſe brought him to publicke penance.</note>, <hi>Saul</hi> 
+                  <note n="s" place="margin">Acts 9. 11. 1 Tim. 1. 13.</note>
+               </l>
+               <l>
+                  <hi>Iſraels</hi> ſweet ſinger <note n="t" place="margin">2 Sam. 11.</note>, Paganiſh converts all:)</l>
+               <l>Unleſſe that mercy pull him from the jawes</l>
+               <l>Of murtherers, theeves, (they left unto the Lawes,)</l>
+               <l>As well deſerving in my reſolution,</l>
+               <l>As <hi>Seyron, Cacus, Faux:</hi> juſt execution:</l>
+               <l>The bloudy oathes of his <hi>God-dam-mec's</hi> muſt,</l>
+               <l>Turne out their bloud to Mummiamized duſt:</l>
+               <l>Yea their grand Proctors (with their Doctors all</l>
+               <l>Right <hi>Balaamiz'd)</hi> like houſe of <hi>Ahab</hi> 
+                  <note n="u" place="margin">2 <hi>Kings.</hi> 9. 26.</note>, <hi>Saul</hi> 
+                  <note n="w" place="margin">1 <hi>Sam.</hi> 20. 2 2 <hi>Sam.</hi> 21. 6.</note>,</l>
+               <l>Yea like the houſe of <hi>Dagon</hi> and <hi>Blacke Friers,</hi>
+               </l>
+               <l>May fall downe flat; for bloud ſtill bloud requires:</l>
+               <l>And Idols which doe moſt pollute a Land,</l>
+               <l>Tho propt by Royall favourites; cannot ſtand:</l>
+               <l>Retaliating vengeance in times all,</l>
+               <l>Keepes meaſures <note n="x" place="margin">
+                     <hi>Mat.</hi> 7. 2.</note> which be Geometricall,</l>
+               <l>And Arithmeticall: like ſinnes ſtill heap,</l>
+               <l>Like ſorrowes <note n="y" place="margin">Poena &amp; culp a propor<g ref="char:EOLhyphen"/>tierata.</note>, as men ſow, ſo muſt they reap;</l>
+               <l>Eat as they bake, and drinke ſuch as they brew,</l>
+               <l>Tho bowles of bloud, their laſt Hearb muſt be Rew.</l>
+               <l>
+                  <hi>Admize<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eck</hi> who the Thumbes off cut,</l>
+               <l>Of ſeaventy Kings <note n="z" place="margin">Iudg. 1. 6. a Sicnecis artifices arte perire ſua.</note>, was to like penance put:</l>
+               <l>And that <hi>Perillus,</hi> who himſelfe did gull,</l>
+               <l>
+                  <hi>Phalaris</hi> him roaſts a, in his owne torturing Bull:</l>
+               <l>That Dancing Minions head too in a trice,</l>
+               <l>Who <hi>Johus</hi> head beg'd, was lopt (ſome ſay) by yee.</l>
+               <l>A bloudy King, worſe Queene by dogs were gnawne.</l>
+               <l>Their bloudy Pageants, periſht-all their ſpawne.</l>
+               <l>Moſt <hi>Pag in Arrian, Papall</hi> perſecutions,</l>
+               <l>Found <hi>Iudas</hi> fates, and <hi>Ioabs</hi> executions.</l>
+               <l>Whole Volumes could I write to let Kings ſee,</l>
+               <l>From former miſled Kings, their Tragedie,</l>
+               <l>Their ſteps who following faſt, their croſſe wayes running,</l>
+               <l>They needs muſt fall, for all <hi>Romes</hi> dawbing cunning.</l>
+               <l>To ſalve all theſe, great <hi>Charles</hi> that wars may ceaſe,</l>
+               <l>Thou and thy Crowne ſecur'd, get grace with peace;</l>
+               <l>
+                  <pb n="27" facs="tcp:42681:17"/>
+Peace with thy God, peace with thy Parliament,</l>
+               <l>For Goſpell, God, thy Good, whoſe aimes be bent.</l>
+               <l>This cleares all clouds, this teares wipes from the eyes</l>
+               <l>Of all good ſubjects, heales all maladies;</l>
+               <l>See with their <hi>Lincean</hi> eyes, vvorke vvith their hands,</l>
+               <l>Thou and thy Scepter ſo ſecurely ſtands.</l>
+               <l>
+                  <hi>Rome</hi> had not bled an object of poore pity,</l>
+               <l>But flouriſht like that Sea-wed maiden City.</l>
+               <l>Had bloudy <hi>Nero,</hi> ſterne <hi>Domitian,</hi>
+               </l>
+               <l>
+                  <hi>Clodius</hi> and <hi>Claudius,</hi> like <hi>Veſpaſian,</hi>
+               </l>
+               <l>Fortunate <hi>Auguſtus, Traian, Adrian,</hi>
+               </l>
+               <l>(Prais'd like <hi>Germanicus</hi> by every man,)</l>
+               <l>Conſulted with <hi>Romes</hi> Senate, as of late,</l>
+               <l>The great <hi>Venetian</hi> Duke, with that wiſe State;</l>
+               <l>As <hi>Homer</hi> (his beſt preſident for Kings)</l>
+               <l>With <hi>Neſtor</hi> and <hi>Ulyſſes,</hi> counſelling brings,</l>
+               <l>His <hi>Agamemnon; Zenopbon</hi> his <hi>Cyrus,</hi>
+               </l>
+               <l>With his grand Peeres: in Hiſtory <hi>Darius,</hi>
+               </l>
+               <l>With his <hi>Zopyrus:</hi> with his <hi>Cyneas,</hi>
+               </l>
+               <l>Great <hi>Pirrhus:</hi> by whoſe wits he Conquerour was:</l>
+               <l>As <hi>Alexander</hi> by <hi>Parmenio,</hi>
+               </l>
+               <l>Did victorize ewhat he did undergoe,</l>
+               <l>Great <hi>Aſſuerus</hi> by his <hi>Perſians</hi> wiſe,</l>
+               <l>Is quit with <hi>Vaſti</hi> who did him deſpiſe.</l>
+               <l>Yea <hi>Iſraels</hi> ſinger in the Text divine,</l>
+               <l>By <hi>Huſhai's</hi> Councell, plots did countermine;</l>
+               <l>And <hi>Nineve's</hi> King conſults with his grand Peeres,</l>
+               <l>Heavens wrath to pacifie by Prayers and Teares.</l>
+               <l>Yea <hi>Abſolom</hi> heares his <hi>Achitophel,</hi>
+               </l>
+               <l>Tho a Malignant worſe then Matchavell:</l>
+               <l>Oh ſhut thy eares great Prince to Counſels given</l>
+               <l>By Serpents, ope them wide to votes from Heaven:</l>
+               <l>Good men be ſhips, wide ope to ſun and skie,</l>
+               <l>To earth and water, yet cloſe ſhut they lie.</l>
+               <l>Good eares and hearts ope (like the Marygold</l>
+               <l>Unto the Sun) to Counſell rightly told;</l>
+               <l>The bad ſhut like the ſpring-lock: Adders deafe,</l>
+               <l>Heare not, or to their hearing give beleife:</l>
+               <l>Like <hi>Zedekiah,</hi> or like <hi>Eli's</hi> ſons,</l>
+               <l>Who threatnings ſcoft, like ſquibs and paper guns:</l>
+               <l>
+                  <pb n="27" facs="tcp:42681:18"/>
+Lightnings and thunders held till bolts they felt,</l>
+               <l>Hearts <hi>Pharoiz'd,</hi> leſſe then Smiths Anvils melt.</l>
+               <l>Lord ſoften thine like wax, to take impreſſiou</l>
+               <l>Of ſound advice, this ſoone ſalves all digreſſion.</l>
+               <l>Oh bleſſe our eyes or eates with that bleſſ day,</l>
+               <l>To know thee with thy Peeres; for which we pray:</l>
+               <l>(A Senate juſt they be, tho thou retire,</l>
+               <l>A wife's a wife, tho ſcorcht with jealous ire:</l>
+               <l>A husband wrongfully ſeduc'd, forſake her.)</l>
+               <l>But of thy preſence be they once partaker,</l>
+               <l>This would turne Guns to Gownes, and Blades to Bookes,</l>
+               <l>Calme furious <hi>Mars,</hi> and cleare <hi>Bellona's</hi> lookes:</l>
+               <l>This Targets turnes to Plowes: Helmets to Hives,</l>
+               <l>Speares into Mattocks, Swords to Tradeſ-mens knives:</l>
+               <l>Penury to Plenty, Diſcords into Loves:</l>
+               <l>Haggards to Hens, and Harpies into Doves.</l>
+               <l>Wars into Peace; and into pleaſure paine,</l>
+               <l>The golden Age ſhould thus returne againe.</l>
+               <l>Oh this would dignifie our <hi>Albions</hi> fame!</l>
+               <l>
+                  <hi>Angloi's</hi> ſhould name of Angels thus regaine;</l>
+               <l>Yea whatſoere is loſt this would make even,</l>
+               <l>In dry hay make up all, our Hell turn'd Heaven.</l>
+               <l>Thus have I ript State wounds, Church wracks, Camp woes,</l>
+               <l>With ſalves: ere <hi>Cynthia</hi> yet few circles goes;</l>
+               <l>If theſe my ſound preſcriptions be tooke well,</l>
+               <l>My Muſe to balme our bleedings, moe may tell,</l>
+               <l>Eccleſiaſtick and Politicall,</l>
+               <l>Tho againſt thoſe ſome <hi>Doegs</hi> loud will baule;</l>
+               <l>Some Aſſes bray, ſome Snakes ſting; which no cure</l>
+               <l>For the Kings Evill, can or will indure:</l>
+               <l>In touch of which each Cavillier who kicks,</l>
+               <l>Shewes that his galled hide, my ſharp pen pricks.</l>
+            </lg>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:42681:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
